@@ -52,6 +52,9 @@
 ### Autoencoders
 [How Variational Autoencoders make classical recommender systems obsolete.](https://medium.com/snipfeed/how-variational-autoencoders-make-classical-recommender-systems-obsolete-4df8bae51546)
 
+### Restricted Boltzmann Machines (RBMs) for Collaborative Filtering
+* https://towardsdatascience.com/recsys-series-part-7-the-3-variants-of-boltzmann-machines-for-collaborative-filtering-4c002af258f9
+
 ### Others
 * https://taufik-azri.medium.com/recommendation-system-for-retail-customer-3f0f80b84221
 * Spotify - https://www.univ.ai/post/spotify-recommendations

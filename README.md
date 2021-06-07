@@ -64,6 +64,14 @@
 * [Part 4: The 7 Variants of MF For Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-4-the-7-variants-of-matrix-factorization-for-collaborative-filtering-368754e4fab5)
 * [Part 5: The 5 Variants of MLP for Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-5-neural-matrix-factorization-for-collaborative-filtering-a0aebfe15883)
 * [Part 6: The 6 Variants of Autoencoders for Collaborative Filtering](https://towardsdatascience.com/recommendation-system-series-part-6-the-6-variants-of-autoencoders-for-collaborative-filtering-bd7b9eae2ec7)
+
+## Online Courses
+* (Recommender Systems and Deep Learning in Python)[https://www.udemy.com/course/recommender-systems/]
+* (Building Recommender Systems with Machine Learning and AI)[https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/]
+
+
+## Books
+
  
 ## Libraries
 ### Implementations

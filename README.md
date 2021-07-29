@@ -72,6 +72,15 @@
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-1/
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/
 * https://rapids.ai/merlin.html
+* Summit:
+  * https://developer.nvidia.com/blog/using-neural-networks-for-your-recommender-system/?ncid=progr-559712#cid=dl19_progr_en-us
+  * https://developer.nvidia.com/blog/nvidia-earns-1st-place-in-recsys-challenge-2021/?ncid=progr-290013#cid=dl19_progr_en-us
+  * https://www.nvidia.com/en-us/training/instructor-led-workshops/intelligent-recommender-systems/
+  * https://developer.nvidia.com/nvidia-merlin?ncid=progr-101132#cid=dl19_progr_en-us
+  * https://medium.com/nvidia-merlin/winning-the-recsys2021-challenge-by-a-diverse-set-of-xgboost-and-neural-network-models-4c5422a642d8
+  * https://on24static.akamaized.net/event/32/96/53/0/rt/1/documents/resourceList1627506368727/nvidiarecsyssummit1627506366215.pdf
+  * https://on24static.akamaized.net/event/32/96/53/0/rt/1/documents/resourceList1627506400731/deeplearningrecsysday21627506398728.pdf
+  * https://on24static.akamaized.net/event/32/96/53/0/rt/1/documents/resourceList1627506417526/tensorflowrecommendersnvidia11627506415818.pdf
 
 ### Bigquery 
 * [Matrix factorization with BQML](https://medium.com/google-cloud/how-to-build-a-recommendation-system-on-e-commerce-data-using-bigquery-ml-df9af2b8c110)

@@ -38,6 +38,7 @@
 
 ### Learn to Rank
 * https://medium.com/@nikhilbd/pointwise-vs-pairwise-vs-listwise-learning-to-rank-80a8fe8fadfd
+* https://ai.googleblog.com/2021/07/advances-in-tf-ranking.html
 
 ### Graph
 * [Network models for recommender systems | by Roxana Pamfil | dunnhumby Data Science & Engineering]()https://medium.com/dunnhumby-data-science-engineering/network-models-for-recommender-systems-7f0d6d210ccf

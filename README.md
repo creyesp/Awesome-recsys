@@ -51,8 +51,8 @@
 * https://blog.fastforwardlabs.com/2018/01/22/exploring-recommendation-systems.html
 
 ### Autoencoders
-[How Variational Autoencoders make classical recommender systems obsolete.](https://medium.com/snipfeed/how-variational-autoencoders-make-classical-recommender-systems-obsolete-4df8bae51546)
-
+* [How Variational Autoencoders make classical recommender systems obsolete.](https://medium.com/snipfeed/how-variational-autoencoders-make-classical-recommender-systems-obsolete-4df8bae51546)
+* [Implementation of deep generative models for recommender systems in Tensorflow🔮 Implementation of VAEs and GANs](https://medium.com/snipfeed/how-to-implement-deep-generative-models-for-recommender-systems-29110be8971f)
 ### Restricted Boltzmann Machines (RBMs) for Collaborative Filtering
 * https://towardsdatascience.com/recsys-series-part-7-the-3-variants-of-boltzmann-machines-for-collaborative-filtering-4c002af258f9
 
@@ -117,6 +117,7 @@
 * [autorec](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
 * [**youtube**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)
 * [**Wide & Deep Learning for Recommender Systems**](https://arxiv.org/pdf/1606.07792.pdf)
+* [Recommendations as Treatments: Debiasing Learning and Evaluation](http://proceedings.mlr.press/v48/schnabel16.pdf)
 
 ### Awesone list
 * https://github.com/hongleizhang/RSPapers

@@ -115,7 +115,8 @@
 
 ## Papers
 * [autorec](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
-* [youtube](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)
+* [**youtube**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)
+* [**Wide & Deep Learning for Recommender Systems**](https://arxiv.org/pdf/1606.07792.pdf)
 
 ### Awesone list
 * https://github.com/hongleizhang/RSPapers

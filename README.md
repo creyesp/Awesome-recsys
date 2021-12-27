@@ -61,13 +61,21 @@
 * Spotify - https://www.univ.ai/post/spotify-recommendations
 * https://colab.research.google.com/github/google/eng-edu/blob/main/ml/recommendation-systems/recommendation-systems.ipynb
 
-### RecSys series by James Le
+### RecSys series
+#### by James Le
 * [Part 1: An Executive Guide to Building Recommendation System](https://towardsdatascience.com/recommendation-system-series-part-1-an-executive-guide-to-building-recommendation-system-608f83e2630a)
 * [Part 2: The 10 Categories of Deep Recommendation Systems That…](https://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58)
 * [Part 3: The 6 Research Directions of Deep Recommendation Systems That…](https://towardsdatascience.com/recommendation-system-series-part-3-the-6-research-directions-of-deep-recommendation-systems-that-3a328d264fb7)
 * [Part 4: The 7 Variants of MF For Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-4-the-7-variants-of-matrix-factorization-for-collaborative-filtering-368754e4fab5)
 * [Part 5: The 5 Variants of MLP for Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-5-neural-matrix-factorization-for-collaborative-filtering-a0aebfe15883)
 * [Part 6: The 6 Variants of Autoencoders for Collaborative Filtering](https://towardsdatascience.com/recommendation-system-series-part-6-the-6-variants-of-autoencoders-for-collaborative-filtering-bd7b9eae2ec7)
+
+#### by Eugen Yan
+* https://eugeneyan.com/tag/recsys/
+* RecSys 2021 - Papers and Talks to Chew on - https://eugeneyan.com/writing/recsys2021/
+* https://eugeneyan.com/writing/patterns-for-personalization/
+
+
 
 ### NVIDIA
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-1/
@@ -111,13 +119,19 @@
 * https://www.kaggle.com/retailrocket/ecommerce-dataset
 * https://gist.github.com/entaroadun/1653794
 * https://github.com/RUCAIBox/RecSysDatasets
+* 30music / impresions / tv audience - https://recsys.deib.polimi.it/datasets/
 
 
 ## Papers
-* [autorec](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
-* [**youtube**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)
-* [**Wide & Deep Learning for Recommender Systems**](https://arxiv.org/pdf/1606.07792.pdf)
-* [Recommendations as Treatments: Debiasing Learning and Evaluation](http://proceedings.mlr.press/v48/schnabel16.pdf)
+* * **OpenTable recommendations (2015)** - https://www.slideshare.net/BuhwanJeong/deep-learning-c-43529709
+* [AutoRec: Autoencoders Meet Collaborative Filtering (2015)](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
+* [**E-commerce in Your Inbox: Product Recommendations at Scale (2016 Yahoo)**](https://arxiv.org/pdf/1606.07154.pdf)
+* [**Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation (2016 Criteo)**](https://arxiv.org/pdf/1607.07326.pdf)
+* [**Deep Neural Networks for YouTube Recommendations (2016 Google)**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)
+* [**Wide & Deep Learning for Recommender Systems (2016 Google)**](https://arxiv.org/pdf/1606.07792.pdf)
+* [Recommendations as Treatments: Debiasing Learning and Evaluation (2016)](http://proceedings.mlr.press/v48/schnabel16.pdf)
+* [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer (2019)](https://dl.acm.org/doi/abs/10.1145/3357384.3357895)
+* 
 
 ### Awesone list
 * https://github.com/hongleizhang/RSPapers

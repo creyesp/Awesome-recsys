@@ -10,19 +10,18 @@
 * https://medium.com/building-creative-market/word2vec-inspired-recommendations-in-production-f2c6a6b5b0bf
 * https://medium.com/shoprunner/fetching-better-beer-recommendations-with-collie-part-1-18c73ab30fbd
 * https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48
-
+* Applying word2vec to Recommenders and Advertising - http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/ `Jun 2018`
 ### Evaluation metrics for RecSys
 * https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093
 * [MAP@k](http://sdsawtelle.github.io/blog/output/mean-average-precision-MAP-for-recommender-systems.html)
 
 ### Deep learning for recsys
 * [Modern Recommender Systems. - A Deep Dive into the AI algorithms [Jun 2021]](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
-* [pytorch-for-recommenders-101 [Apr 2018]](https://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html)
-* [Deep Learning Recommendation Models (DLRM) : A Deep Dive [Oct 2020]](https://medium.com/swlh/deep-learning-recommendation-models-dlrm-a-deep-dive-f38a95f47c2c)
-* [deep-learning-recommendation-models-dlrm-deep-dive [Apr 2021]](https://www.kdnuggets.com/2021/04/deep-learning-recommendation-models-dlrm-deep-dive.html)
+* [pytorch-for-recommenders-101](https://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html) `Apr 2018`
+* [Deep Learning Recommendation Models (DLRM) : A Deep Dive ](https://medium.com/swlh/deep-learning-recommendation-models-dlrm-a-deep-dive-f38a95f47c2c) `Oct 2020`
+* [deep-learning-recommendation-models-dlrm-deep-dive ](https://www.kdnuggets.com/2021/04/deep-learning-recommendation-models-dlrm-deep-dive.html) `Apr 2021`
 
 ### Pytorch 
-- **Modern Recommender Systems** - https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8
 - https://towardsdatascience.com/how-to-build-a-strong-baseline-recommender-using-pytorch-on-a-regular-laptop-2ad497504fe6
 - https://towardsdatascience.com/recommender-systems-using-deep-learning-in-pytorch-from-scratch-f661b8f391d7
 

@@ -92,9 +92,11 @@
 
 ### Bigquery 
 * [Matrix factorization with BQML](https://medium.com/google-cloud/how-to-build-a-recommendation-system-on-e-commerce-data-using-bigquery-ml-df9af2b8c110)
+
 ## Online Courses
-* (Recommender Systems and Deep Learning in Python)[https://www.udemy.com/course/recommender-systems/]
-* (Building Recommender Systems with Machine Learning and AI)[https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/]
+* Recommender Systems and Deep Learning in Python - https://www.udemy.com/course/recommender-systems/
+* Building Recommender Systems with Machine Learning and AI - https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/
+* Google course for RecSys - https://developers.google.com/machine-learning/recommendation
 
 
 ## Books

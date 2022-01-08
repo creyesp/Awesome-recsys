@@ -138,6 +138,7 @@
 * [Neural Collaborative Filtering (2017)](https://arxiv.org/pdf/1708.05031.pdf)
 * [Deep & Cross Network for Ad Click Predictions (2017 Google)](https://arxiv.org/pdf/1708.05123.pdf)
 * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction (2017 Huawei)](https://arxiv.org/pdf/1703.04247.pdf)
+* [Deep & Cross Network for Ad Click Predictions V1 (2017 Google)](https://arxiv.org/pdf/1708.05123.pdf)
 * [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems (2018 Microsoft)](https://arxiv.org/pdf/1803.05170.pdf)
 * [Latent Cross: Making Use of Context in Recurrent Recommender Systems (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3159652.3159727)
 * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)

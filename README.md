@@ -74,6 +74,9 @@
 * RecSys 2021 - Papers and Talks to Chew on - https://eugeneyan.com/writing/recsys2021/
 * https://eugeneyan.com/writing/patterns-for-personalization/
 
+#### by Wei Wei
+* **Building recommendation systems with TensorFlow** - https://www.youtube.com/watch?v=RWlLaWMD30M&list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz
+
 
 
 ### NVIDIA

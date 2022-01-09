@@ -128,21 +128,28 @@
 
 ## Papers
 * * **OpenTable recommendations (2015)** - https://www.slideshare.net/BuhwanJeong/deep-learning-c-43529709
+* [Collaborative Filtering for Implicit Feedback Datasets (2008 AT&T)](http://yifanhu.net/PUB/cf.pdf)
 * [Factorization Machine (2010)](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 * [AutoRec: Autoencoders Meet Collaborative Filtering (2015)](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
+* [The Netflix Recommender System: Algorithms, Business Value and Innovation (2015 Netflix)](https://dl.acm.org/doi/pdf/10.1145/2843948)
 * [**E-commerce in Your Inbox: Product Recommendations at Scale (2016 Yahoo)**](https://arxiv.org/pdf/1606.07154.pdf)
 * [**Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation (2016 Criteo)**](https://arxiv.org/pdf/1607.07326.pdf)
 * [**Deep Neural Networks for YouTube Recommendations (2016 Google)**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)
 * [**Wide & Deep Learning for Recommender Systems (2016 Google)**](https://arxiv.org/pdf/1606.07792.pdf)
 * [Recommendations as Treatments: Debiasing Learning and Evaluation (2016)](http://proceedings.mlr.press/v48/schnabel16.pdf)
+* [Session-based Recommendations with Recurrent Neural Networks(2016 Netflix)](https://arxiv.org/pdf/1511.06939.pdf)
+* [Sequential User-based Recurrent Neural Network Recommendations (2017)](https://dl.acm.org/doi/pdf/10.1145/3109859.3109877)
 * [Neural Collaborative Filtering (2017)](https://arxiv.org/pdf/1708.05031.pdf)
 * [Deep & Cross Network for Ad Click Predictions (2017 Google)](https://arxiv.org/pdf/1708.05123.pdf)
 * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction (2017 Huawei)](https://arxiv.org/pdf/1703.04247.pdf)
 * [Deep & Cross Network for Ad Click Predictions V1 (2017 Google)](https://arxiv.org/pdf/1708.05123.pdf)
 * [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems (2018 Microsoft)](https://arxiv.org/pdf/1803.05170.pdf)
 * [Latent Cross: Making Use of Context in Recurrent Recommender Systems (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3159652.3159727)
+* [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3219819.3220007)
 * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)
-* [Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)(TWO TOWER MODEL)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
+* [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)(TWO TOWER MODEL)**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
+  - https://www.youtube.com/watch?v=O4cqDdtflnY
+  - https://www.youtube.com/watch?v=FSDuo9ybv8s
 * [SNR: Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning (2019 Google)](https://ojs.aaai.org/index.php/AAAI/article/view/3788)
 * [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer (2019)](https://dl.acm.org/doi/abs/10.1145/3357384.3357895)
 * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)

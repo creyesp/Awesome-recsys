@@ -150,6 +150,7 @@
 * [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)(TWO TOWER MODEL)**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
   - https://www.youtube.com/watch?v=O4cqDdtflnY
   - https://www.youtube.com/watch?v=FSDuo9ybv8s
+* [Recommending what video to watch next: a multitask ranking system (2019 Google)](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997)
 * [SNR: Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning (2019 Google)](https://ojs.aaai.org/index.php/AAAI/article/view/3788)
 * [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer (2019)](https://dl.acm.org/doi/abs/10.1145/3357384.3357895)
 * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)

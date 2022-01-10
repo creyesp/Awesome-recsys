@@ -146,16 +146,16 @@
 * [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems (2018 Microsoft)](https://arxiv.org/pdf/1803.05170.pdf)
 * [Latent Cross: Making Use of Context in Recurrent Recommender Systems (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3159652.3159727)
 * [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3219819.3220007)
+* [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018)
 * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)
 * [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)(TWO TOWER MODEL)**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
-  - https://www.youtube.com/watch?v=O4cqDdtflnY
-  - https://www.youtube.com/watch?v=FSDuo9ybv8s
+  - [**PS6: Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations - Yi et al. (ACM)**](https://www.youtube.com/watch?v=O4cqDdtflnY)
+  - [PR-282: Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](https://www.youtube.com/watch?v=FSDuo9ybv8s)
 * [Recommending what video to watch next: a multitask ranking system (2019 Google)](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997)
 * [SNR: Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning (2019 Google)](https://ojs.aaai.org/index.php/AAAI/article/view/3788)
 * [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer (2019)](https://dl.acm.org/doi/abs/10.1145/3357384.3357895)
 * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)
-* [Self-supervised Learning for Large-scale Item Recommendations (2021 Google)](https://arxiv.org/pdf/2007.12865.pdf)
-* 
+* [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (2020 Tencet)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
 
 ### Awesone list
 * https://github.com/hongleizhang/RSPapers

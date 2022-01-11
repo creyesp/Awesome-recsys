@@ -100,7 +100,8 @@
 * Recommender Systems and Deep Learning in Python - https://www.udemy.com/course/recommender-systems/
 * Building Recommender Systems with Machine Learning and AI - https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/
 * Google course for RecSys - https://developers.google.com/machine-learning/recommendation
-
+## SIGIR (Special Interest Group on Information Retrieval)
+* https://sigir-ecom.github.io/
 
 ## Books
 
@@ -156,6 +157,20 @@
 * [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer (2019)](https://dl.acm.org/doi/abs/10.1145/3357384.3357895)
 * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)
 * [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (2020 Tencet)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
+* [Contextual and Sequential User Embeddings for Large-Scale Music Recommendation (2020)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248)
+* [P-Companion: A Principled Framework for Diversified Complementary Product Recommendation (2020 Aamzon)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412732)
+  - https://www.amazon.science/blog/improving-complementary-product-recommendations
+* [Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (2021 Amazon)](https://arxiv.org/pdf/2109.11059.pdf)
+
+product search recommendation
+* [A Transformer-based Embedding Model for Personalized Product Search (2020)](https://arxiv.org/pdf/2005.08936.pdf)
+
+eCommerce
+* [Predicting Shopping Behavior with Mixture of RNNs (2017 Rakuten)](https://difabbrizio.com/papers/sigir-ecom-2017-cs.pdf)
+* [Fantastic Embeddings and How to Align Them: Zero-Shot Inference in a Multi-Shop Scenario (2020 Coveo)](https://arxiv.org/pdf/2007.14906.pdf)
+* [Shopping in the Multiverse: A Counterfactual Approach to In-Session Attribution (2020 Coveo)](https://arxiv.org/pdf/2007.10087.pdf)
+* [How to Grow a (Product) Tree Personalized Category Suggestions for eCommerce Type-Ahead (2020 Coveo)](https://aclanthology.org/2020.ecnlp-1.2.pdf)
+* [Shopper intent prediction from clickstream e‑commerce data with minimal browsing information (2020)](https://www.nature.com/articles/s41598-020-73622-y.pdf)
 
 ### Awesone list
 * https://github.com/hongleizhang/RSPapers

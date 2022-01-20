@@ -14,6 +14,9 @@
 ### Evaluation metrics for RecSys
 * https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093
 * [MAP@k](http://sdsawtelle.github.io/blog/output/mean-average-precision-MAP-for-recommender-systems.html)
+* How Spotify Recommends Your New Favorite Artist (2019) - https://towardsdatascience.com/how-spotify-recommends-your-new-favorite-artist-8c1850512af0
+* [Find anything blazingly fast with Google's vector search technology](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
+* https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded
 
 ### Deep learning for recsys
 * [Modern Recommender Systems. - A Deep Dive into the AI algorithms [Jun 2021]](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
@@ -160,7 +163,7 @@
   * [Variational Autoencoders for Collaborative Filtering (2018 Netflix/Google)](https://arxiv.org/pdf/1802.05814.pdf)
 * 2019 
   * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)
-  * [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)(TWO TOWER MODEL)**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
+  * [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)`two tower`**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
     - [**PS6: Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations - Yi et al. (ACM)**](https://www.youtube.com/watch?v=O4cqDdtflnY)
     - [PR-282: Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](https://www.youtube.com/watch?v=FSDuo9ybv8s)
   * [Recommending what video to watch next: a multitask ranking system (2019 Google)](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997)
@@ -181,6 +184,8 @@
   * [Theoretical Understandings of Product Embedding for E-commerce Machine Learning (2021 Walmart)](https://arxiv.org/pdf/2102.12029.pdf)
   * [**Self-supervised Learning for Large-scale Item Recommendations (2021 Google)**](https://arxiv.org/pdf/2007.12865.pdf 	)
   * [Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees? (2021 Google ICRL)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/a7f0822e77e8b6b4c00c879707fe60e3955d4a03.pdf)
+  * [Item Recommendation from Implicit Feedback (2021 Google)](https://arxiv.org/pdf/2101.08769.pdf)
+
 
 product search recommendation
 * [A Transformer-based Embedding Model for Personalized Product Search (2020)](https://arxiv.org/pdf/2005.08936.pdf)
@@ -198,7 +203,6 @@ eCommerce
 * https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 * https://paperswithcode.com/task/recommendation-systems?page=2
 * https://github.com/microsoft/recommenders
-
-
+* https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising
 
 

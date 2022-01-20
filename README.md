@@ -11,12 +11,14 @@
 * https://medium.com/shoprunner/fetching-better-beer-recommendations-with-collie-part-1-18c73ab30fbd
 * https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48
 * Applying word2vec to Recommenders and Advertising - http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/ `Jun 2018`
+* Instacart Market Basket Analysis. Winner’s Interview: 2nd place, Kazuki Onodera - https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded
+
 ### Evaluation metrics for RecSys
 * https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093
 * [MAP@k](http://sdsawtelle.github.io/blog/output/mean-average-precision-MAP-for-recommender-systems.html)
 * How Spotify Recommends Your New Favorite Artist (2019) - https://towardsdatascience.com/how-spotify-recommends-your-new-favorite-artist-8c1850512af0
 * [Find anything blazingly fast with Google's vector search technology](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
-* https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded
+
 
 ### Deep learning for recsys
 * [Modern Recommender Systems. - A Deep Dive into the AI algorithms [Jun 2021]](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)

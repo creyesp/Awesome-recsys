@@ -186,6 +186,10 @@
   * [Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees? (2021 Google ICRL)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/a7f0822e77e8b6b4c00c879707fe60e3955d4a03.pdf)
   * [Item Recommendation from Implicit Feedback (2021 Google)](https://arxiv.org/pdf/2101.08769.pdf)
 
+Two tower model 
+* [Learning Text Similarity with Siamese Recurrent Networks (2016 textkernel)](https://aclanthology.org/W16-1617.pdf)
+* [Smart Reply: Automated Response Suggestion for Email (2016 Google)](https://arxiv.org/pdf/1606.04870v1.pdf)
+* [Learning Semantic Textual Similarity from Conversations - (2018 Google)](https://arxiv.org/pdf/1804.07754.pdf)
 
 product search recommendation
 * [A Transformer-based Embedding Model for Personalized Product Search (2020)](https://arxiv.org/pdf/2005.08936.pdf)

@@ -136,8 +136,12 @@
 * **OpenTable recommendations (2015)** - https://www.slideshare.net/BuhwanJeong/deep-learning-c-43529709
 * 2008
   * [Collaborative Filtering for Implicit Feedback Datasets (2008 AT&T)](http://yifanhu.net/PUB/cf.pdf)
+* 2009
+  * [BPR: Bayesian Personalized Ranking from Implicit Feedback (2009)](https://arxiv.org/pdf/1205.2618.pdf)
 * 2010
   * [Factorization Machine (2010)](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+* 2011
+  * [SLIM: Sparse Linear Methods for Top-N Recommender Systems (2011)](http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf) 
 * 2015
   * [AutoRec: Autoencoders Meet Collaborative Filtering (2015)](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
   * [Metadata Embeddings for User and Item Cold-start Recommendations (2015 Lyst)](https://arxiv.org/pdf/1507.08439.pdf)
@@ -149,6 +153,7 @@
   * [**Wide & Deep Learning for Recommender Systems (2016 Google)**](https://arxiv.org/pdf/1606.07792.pdf)
   * [Recommendations as Treatments: Debiasing Learning and Evaluation (2016)](http://proceedings.mlr.press/v48/schnabel16.pdf)
   * [Session-based Recommendations with Recurrent Neural Networks(2016 Netflix)](https://arxiv.org/pdf/1511.06939.pdf)
+  * [A Generic Coordinate Descent Framework for Learning from Implicit Feedback (2016 Google)](https://arxiv.org/pdf/1611.04666.pdf)
 * 2017
   * [Sequential User-based Recurrent Neural Network Recommendations (2017)](https://dl.acm.org/doi/pdf/10.1145/3109859.3109877)
   * [Neural Collaborative Filtering (2017)](https://arxiv.org/pdf/1708.05031.pdf)
@@ -156,6 +161,7 @@
   * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction (2017 Huawei)](https://arxiv.org/pdf/1703.04247.pdf)
   * [Deep & Cross Network for Ad Click Predictions V1 (2017 Google)](https://arxiv.org/pdf/1708.05123.pdf)
   * [Embedding-based News Recommendation for Millions of Users (Yahoo 2017)](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1933.pdf)
+  * [Folding: Why Good Models Sometimes Make Spurious Recommendations (2017 Google)](https://dl.acm.org/doi/pdf/10.1145/3109859.3109911)
 * 2018
   * [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems (2018 Microsoft)](https://arxiv.org/pdf/1803.05170.pdf)
   * [Latent Cross: Making Use of Context in Recurrent Recommender Systems (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3159652.3159727)
@@ -163,6 +169,7 @@
   * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018)
   * [Explore, exploit, and explain: personalizing explainable recommendations with bandits (2018 Spotify)](https://dl.acm.org/doi/pdf/10.1145/3240323.3240354)
   * [Variational Autoencoders for Collaborative Filtering (2018 Netflix/Google)](https://arxiv.org/pdf/1802.05814.pdf)
+  * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018)
 * 2019 
   * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)
   * [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)`two tower`**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
@@ -174,6 +181,9 @@
   * [Improving Relevance Prediction with Transfer Learning in Large-scale Retrieval Systems (2019 Google)](https://openreview.net/pdf?id=SJxPVcSonN)
   * [Building a Recommender System Using Embeddings (2019 Drop)](https://drop.engineering/building-a-recommender-system-using-embeddings-de5a30e655aa)
   * [End-to-End Retrieval in Continuous Space (2019 Google) `two tower`](https://arxiv.org/pdf/1811.08008.pdf)
+  * [Beyond Greedy Ranking: Slate Optimization via List-CVAE (2019)](https://arxiv.org/pdf/1803.01682.pdf)
+  * [On the Difficulty of Evaluating Baselines (2019 Google)](https://arxiv.org/pdf/1905.01395.pdf)
+  * [Are we really making much progress? A worrying analysis of recent neural recommendation approaches (2019)](https://dl.acm.org/doi/pdf/10.1145/3298689.3347058)
 * 2020
   * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)
   * [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (2020 Tencet)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
@@ -182,12 +192,16 @@
   - https://www.amazon.science/blog/improving-complementary-product-recommendations
   * [Pre-training Tasks for Embedding-based Large-scale Retrieval (2020 Google)](https://arxiv.org/pdf/2002.03932.pdf)
   * [Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations (2020 Google)`two tower`](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b9f4e78a8830fe5afcf2f0452862fb3c0d6584ea.pdf)
+  * [On sampled metrics for item recommendation (2020 Google)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226)
+  * [Neural Collaborative Filtering vs. Matrix Factorization Revisited (2020)](https://arxiv.org/pdf/2005.09683.pdf)
 * 2021
   * [Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (2021 Amazon)](https://arxiv.org/pdf/2109.11059.pdf)
   * [Theoretical Understandings of Product Embedding for E-commerce Machine Learning (2021 Walmart)](https://arxiv.org/pdf/2102.12029.pdf)
   * [**Self-supervised Learning for Large-scale Item Recommendations (2021 Google)**](https://arxiv.org/pdf/2007.12865.pdf 	)
   * [Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees? (2021 Google ICRL)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/a7f0822e77e8b6b4c00c879707fe60e3955d4a03.pdf)
-  * [**Item Recommendation from Implicit Feedback (2021 Google)** `two tower`](https://arxiv.org/pdf/2101.08769.pdf)
+  * [**Item Recommendation from Implicit Feedback (2021 Google)**](https://arxiv.org/pdf/2101.08769.pdf)
+  * [A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research (2021)`review`](https://arxiv.org/pdf/1911.07698.pdf)
+  * [One Person, One Model, One World: Learning Continual User Representation without Forgetting (2021)](https://arxiv.org/pdf/2009.13724.pdf)
 
 Two tower model 
 * [Learning Text Similarity with Siamese Recurrent Networks (2016 textkernel)](https://aclanthology.org/W16-1617.pdf)

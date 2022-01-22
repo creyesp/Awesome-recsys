@@ -12,6 +12,7 @@
 * https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48
 * Applying word2vec to Recommenders and Advertising - http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/ `Jun 2018`
 * Instacart Market Basket Analysis. Winner’s Interview: 2nd place, Kazuki Onodera - https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded
+* **Listing Embeddings in Search Ranking** - https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e
 
 ### Evaluation metrics for RecSys
 * https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093
@@ -142,6 +143,8 @@
   * [Factorization Machine (2010)](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 * 2011
   * [SLIM: Sparse Linear Methods for Top-N Recommender Systems (2011)](http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf) 
+* 2013
+  * [**Deep content-based music recommendation (2013 Spotify)**](https://papers.nips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
 * 2015
   * [AutoRec: Autoencoders Meet Collaborative Filtering (2015)](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
   * [Metadata Embeddings for User and Item Cold-start Recommendations (2015 Lyst)](https://arxiv.org/pdf/1507.08439.pdf)

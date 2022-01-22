@@ -181,12 +181,13 @@
   * [P-Companion: A Principled Framework for Diversified Complementary Product Recommendation (2020 Aamzon)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412732)
   - https://www.amazon.science/blog/improving-complementary-product-recommendations
   * [Pre-training Tasks for Embedding-based Large-scale Retrieval (2020 Google)](https://arxiv.org/pdf/2002.03932.pdf)
+  * [Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations (2020 Google)`two tower`](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b9f4e78a8830fe5afcf2f0452862fb3c0d6584ea.pdf)
 * 2021
   * [Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (2021 Amazon)](https://arxiv.org/pdf/2109.11059.pdf)
   * [Theoretical Understandings of Product Embedding for E-commerce Machine Learning (2021 Walmart)](https://arxiv.org/pdf/2102.12029.pdf)
   * [**Self-supervised Learning for Large-scale Item Recommendations (2021 Google)**](https://arxiv.org/pdf/2007.12865.pdf 	)
   * [Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees? (2021 Google ICRL)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/a7f0822e77e8b6b4c00c879707fe60e3955d4a03.pdf)
-  * [Item Recommendation from Implicit Feedback (2021 Google)](https://arxiv.org/pdf/2101.08769.pdf)
+  * [**Item Recommendation from Implicit Feedback (2021 Google)** `two tower`](https://arxiv.org/pdf/2101.08769.pdf)
 
 Two tower model 
 * [Learning Text Similarity with Siamese Recurrent Networks (2016 textkernel)](https://aclanthology.org/W16-1617.pdf)

@@ -74,6 +74,7 @@
 * [Part 4: The 7 Variants of MF For Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-4-the-7-variants-of-matrix-factorization-for-collaborative-filtering-368754e4fab5)
 * [Part 5: The 5 Variants of MLP for Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-5-neural-matrix-factorization-for-collaborative-filtering-a0aebfe15883)
 * [Part 6: The 6 Variants of Autoencoders for Collaborative Filtering](https://towardsdatascience.com/recommendation-system-series-part-6-the-6-variants-of-autoencoders-for-collaborative-filtering-bd7b9eae2ec7)
+* [Part 7: The 3 Variants of Boltzmann Machines for Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-7-the-3-variants-of-boltzmann-machines-for-collaborative-filtering-4c002af258f9)
 
 #### by Eugen Yan
 * https://eugeneyan.com/tag/recsys/
@@ -146,7 +147,7 @@
 * 2013
   * [**Deep content-based music recommendation (2013 Spotify)**](https://papers.nips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
 * 2015
-  * [AutoRec: Autoencoders Meet Collaborative Filtering (2015)](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
+  * [AutoRec: Autoencoders Meet Collaborative Filtering (2015)`autoencder`](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
   * [Metadata Embeddings for User and Item Cold-start Recommendations (2015 Lyst)](https://arxiv.org/pdf/1507.08439.pdf)
   * [The Netflix Recommender System: Algorithms, Business Value and Innovation (2015 Netflix)](https://dl.acm.org/doi/pdf/10.1145/2843948)
 * 2016
@@ -155,8 +156,10 @@
   * [**Deep Neural Networks for YouTube Recommendations (2016 Google)**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)
   * [**Wide & Deep Learning for Recommender Systems (2016 Google)**](https://arxiv.org/pdf/1606.07792.pdf)
   * [Recommendations as Treatments: Debiasing Learning and Evaluation (2016)](http://proceedings.mlr.press/v48/schnabel16.pdf)
-  * [Session-based Recommendations with Recurrent Neural Networks(2016 Netflix)](https://arxiv.org/pdf/1511.06939.pdf)
+  * [Session-based Recommendations with Recurrent Neural Networks(2016 Yusp-Telefonica-Netflix)](https://arxiv.org/pdf/1511.06939.pdf)
   * [A Generic Coordinate Descent Framework for Learning from Implicit Feedback (2016 Google)](https://arxiv.org/pdf/1611.04666.pdf)
+  * [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems (2016b Dato)`autoencder`](https://dl.acm.org/doi/pdf/10.1145/2835776.2835837)
+  * [A Neural Autoregressive Approach to Collaborative Filtering (2016)`autoencder`](https://arxiv.org/abs/1605.09477)
 * 2017
   * [Sequential User-based Recurrent Neural Network Recommendations (2017)](https://dl.acm.org/doi/pdf/10.1145/3109859.3109877)
   * [Neural Collaborative Filtering (2017)](https://arxiv.org/pdf/1708.05031.pdf)
@@ -165,13 +168,15 @@
   * [Deep & Cross Network for Ad Click Predictions V1 (2017 Google)](https://arxiv.org/pdf/1708.05123.pdf)
   * [Embedding-based News Recommendation for Millions of Users (Yahoo 2017)](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1933.pdf)
   * [Folding: Why Good Models Sometimes Make Spurious Recommendations (2017 Google)](https://dl.acm.org/doi/pdf/10.1145/3109859.3109911)
+  * [Collaborative Variational Autoencoder for Recommender Systems (2017)`autoencder`](https://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)
+  * [Recurrent Neural Networks with Top-k Gains for Session-based Recommendations (2017 Yusp-Telefonica)](https://arxiv.org/pdf/1706.03847.pdf)
 * 2018
   * [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems (2018 Microsoft)](https://arxiv.org/pdf/1803.05170.pdf)
   * [Latent Cross: Making Use of Context in Recurrent Recommender Systems (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3159652.3159727)
   * [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3219819.3220007)
   * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018)
   * [Explore, exploit, and explain: personalizing explainable recommendations with bandits (2018 Spotify)](https://dl.acm.org/doi/pdf/10.1145/3240323.3240354)
-  * [Variational Autoencoders for Collaborative Filtering (2018 Netflix/Google)](https://arxiv.org/pdf/1802.05814.pdf)
+  * [Variational Autoencoders for Collaborative Filtering (2018 Netflix/Google)`autoencder`](https://arxiv.org/pdf/1802.05814.pdf)
   * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018)
 * 2019 
   * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)
@@ -184,9 +189,9 @@
   * [Improving Relevance Prediction with Transfer Learning in Large-scale Retrieval Systems (2019 Google)](https://openreview.net/pdf?id=SJxPVcSonN)
   * [Building a Recommender System Using Embeddings (2019 Drop)](https://drop.engineering/building-a-recommender-system-using-embeddings-de5a30e655aa)
   * [End-to-End Retrieval in Continuous Space (2019 Google) `two tower`](https://arxiv.org/pdf/1811.08008.pdf)
-  * [Beyond Greedy Ranking: Slate Optimization via List-CVAE (2019)](https://arxiv.org/pdf/1803.01682.pdf)
-  * [On the Difficulty of Evaluating Baselines (2019 Google)](https://arxiv.org/pdf/1905.01395.pdf)
-  * [Are we really making much progress? A worrying analysis of recent neural recommendation approaches (2019)](https://dl.acm.org/doi/pdf/10.1145/3298689.3347058)
+  * [Beyond Greedy Ranking: Slate Optimization via List-CVAE (2019)`autoencder`](https://arxiv.org/pdf/1803.01682.pdf)
+  * [On the Difficulty of Evaluating Baselines (2019 Google)`evaluation`](https://arxiv.org/pdf/1905.01395.pdf)
+  * [**Are we really making much progress? A worrying analysis of recent neural recommendation approaches** (2019)`evaluation`](https://dl.acm.org/doi/pdf/10.1145/3298689.3347058)
 * 2020
   * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)
   * [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (2020 Tencet)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
@@ -229,4 +234,6 @@ eCommerce
 * https://github.com/microsoft/recommenders
 * https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising
 
+### Papers with code
+* https://paperswithcode.com/task/recommendation-systems
 

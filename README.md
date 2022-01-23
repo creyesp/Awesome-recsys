@@ -195,6 +195,7 @@
   * [**Are we really making much progress? A worrying analysis of recent neural recommendation approaches** (2019)`evaluation`](https://dl.acm.org/doi/pdf/10.1145/3298689.3347058)
   * [**Embarrassingly Shallow Autoencoders for Sparse Data** (2019 Netflix)`autoencoder`](https://arxiv.org/abs/1905.03375)
   * [Collaborative Filtering via High-Dimensional Regression (2019 Netflix)](https://arxiv.org/pdf/1904.13033.pdf)
+  * [RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback (2019 Samsung)](https://arxiv.org/pdf/1912.11160.pdf)
 * 2020
   * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)
   * [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (2020 Tencet)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)

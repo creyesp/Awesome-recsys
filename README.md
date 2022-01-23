@@ -176,8 +176,9 @@
   * [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3219819.3220007)
   * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018)
   * [Explore, exploit, and explain: personalizing explainable recommendations with bandits (2018 Spotify)](https://dl.acm.org/doi/pdf/10.1145/3240323.3240354)
-  * [Variational Autoencoders for Collaborative Filtering (2018 Netflix/Google)`autoencder`](https://arxiv.org/pdf/1802.05814.pdf)
+  * [MULTI-VAE: Variational Autoencoders for Collaborative Filtering (2018 Netflix/Google)`autoencder`](https://arxiv.org/pdf/1802.05814.pdf)
   * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018)
+  * [Adversarial Collaborative Auto-encoder for Top-N Recommendation (2018)](https://arxiv.org/pdf/1808.05361.pdf)
 * 2019 
   * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)
   * [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)`two tower`**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
@@ -192,6 +193,8 @@
   * [Beyond Greedy Ranking: Slate Optimization via List-CVAE (2019)`autoencder`](https://arxiv.org/pdf/1803.01682.pdf)
   * [On the Difficulty of Evaluating Baselines (2019 Google)`evaluation`](https://arxiv.org/pdf/1905.01395.pdf)
   * [**Are we really making much progress? A worrying analysis of recent neural recommendation approaches** (2019)`evaluation`](https://dl.acm.org/doi/pdf/10.1145/3298689.3347058)
+  * [**Embarrassingly Shallow Autoencoders for Sparse Data** (2019 Netflix)`autoencoder`](https://arxiv.org/abs/1905.03375)
+  * [Collaborative Filtering via High-Dimensional Regression (2019 Netflix)](https://arxiv.org/pdf/1904.13033.pdf)
 * 2020
   * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)
   * [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (2020 Tencet)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)

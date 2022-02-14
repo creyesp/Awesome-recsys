@@ -19,6 +19,8 @@
 * [MAP@k](http://sdsawtelle.github.io/blog/output/mean-average-precision-MAP-for-recommender-systems.html)
 * How Spotify Recommends Your New Favorite Artist (2019) - https://towardsdatascience.com/how-spotify-recommends-your-new-favorite-artist-8c1850512af0
 * [Find anything blazingly fast with Google's vector search technology](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
+* [KDD 2021 Mixed Method Development of Evaluation Metrics](https://kdd2021-mixedmethods.github.io/)
+* [KDD 2020 Tutorial on Online User Engagement](https://onlineuserengagement.github.io/)
 
 
 ### Deep learning for recsys
@@ -107,6 +109,7 @@
 * Recommender Systems and Deep Learning in Python - https://www.udemy.com/course/recommender-systems/
 * Building Recommender Systems with Machine Learning and AI - https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/
 * Google course for RecSys - https://developers.google.com/machine-learning/recommendation
+
 ## SIGIR (Special Interest Group on Information Retrieval)
 * https://sigir-ecom.github.io/
 

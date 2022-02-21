@@ -257,7 +257,6 @@
   * [Pre-training Tasks for Embedding-based Large-scale Retrieval (2020 Google)](https://arxiv.org/pdf/2002.03932.pdf)
   * [Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations (2020 Google)`two tower`](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b9f4e78a8830fe5afcf2f0452862fb3c0d6584ea.pdf)
   * [On sampled metrics for item recommendation (2020 Google)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226)
-  * [Neural Collaborative Filtering vs. Matrix Factorization Revisited (2020)](https://arxiv.org/pdf/2005.09683.pdf)
   * [Temporal-Contextual Recommendation in Real-Time (2020 Amazon)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403278)
   * [**Neural Collaborative Filtering vs. Matrix Factorization Revisited (2020 Google)**](https://dl.acm.org/doi/pdf/10.1145/3383313.3412488)
 * 2021

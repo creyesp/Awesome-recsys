@@ -1,5 +1,16 @@
 # Awesome-recsys
-## Blogs 
+1. [Blogs post](#blogs-post)
+2. [Videos](#Videos)
+3. [Online Courses](#Online-Courses)
+4. [Books](#books)
+5. [Code](#code)
+6. [Datasets](#datasets)
+7. [Papers](#papers)
+8. [Other Awesone list](#other-awesone-list)
+
+
+
+## Blogs post
 
 * https://medium.datadriveninvestor.com/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6
 * https://www.kaggle.com/c/santander-product-recommendation
@@ -10,63 +21,9 @@
 * https://medium.com/building-creative-market/word2vec-inspired-recommendations-in-production-f2c6a6b5b0bf
 * https://medium.com/shoprunner/fetching-better-beer-recommendations-with-collie-part-1-18c73ab30fbd
 * https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48
-* Applying word2vec to Recommenders and Advertising - http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/ `Jun 2018`
-* Instacart Market Basket Analysis. Winner’s Interview: 2nd place, Kazuki Onodera - https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded
-* **Listing Embeddings in Search Ranking** - https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e
+* [Applying word2vec to Recommenders and Advertising `Jun 2018`](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/)
+* [Instacart Market Basket Analysis. Winner’s Interview: 2nd place, Kazuki Onodera](https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded)
 
-### Evaluation metrics for RecSys
-* https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093
-* [MAP@k](http://sdsawtelle.github.io/blog/output/mean-average-precision-MAP-for-recommender-systems.html)
-* How Spotify Recommends Your New Favorite Artist (2019) - https://towardsdatascience.com/how-spotify-recommends-your-new-favorite-artist-8c1850512af0
-* [Find anything blazingly fast with Google's vector search technology](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
-* [KDD 2021 Mixed Method Development of Evaluation Metrics](https://kdd2021-mixedmethods.github.io/)
-* [KDD 2020 Tutorial on Online User Engagement](https://onlineuserengagement.github.io/)
-
-
-### Deep learning for recsys
-* [Modern Recommender Systems. - A Deep Dive into the AI algorithms [Jun 2021]](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
-* [pytorch-for-recommenders-101](https://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html) `Apr 2018`
-* [Deep Learning Recommendation Models (DLRM) : A Deep Dive ](https://medium.com/swlh/deep-learning-recommendation-models-dlrm-a-deep-dive-f38a95f47c2c) `Oct 2020`
-* [deep-learning-recommendation-models-dlrm-deep-dive ](https://www.kdnuggets.com/2021/04/deep-learning-recommendation-models-dlrm-deep-dive.html) `Apr 2021`
-
-### Pytorch 
-- https://towardsdatascience.com/how-to-build-a-strong-baseline-recommender-using-pytorch-on-a-regular-laptop-2ad497504fe6
-- https://towardsdatascience.com/recommender-systems-using-deep-learning-in-pytorch-from-scratch-f661b8f391d7
-
-### Probabilistic approach
-* https://www.cs.toronto.edu/~amnih/papers/bpmf.pdf
-* https://towardsdatascience.com/probabilistic-matrix-factorization-b7852244a321
-* https://docs.pymc.io/notebooks/probabilistic_matrix_factorization.html
-
-### Implicit RecSys
-* https://medium.com/@judaikawa/building-and-evaluating-a-recommender-system-for-implicit-feedback-59495d2077d4
-* https://www.kaggle.com/c/instacart-market-basket-analysis/data
-* https://towardsdatascience.com/factorization-machines-for-item-recommendation-with-implicit-feedback-data-5655a7c749db
-
-### Learn to Rank
-* https://medium.com/@nikhilbd/pointwise-vs-pairwise-vs-listwise-learning-to-rank-80a8fe8fadfd
-* https://ai.googleblog.com/2021/07/advances-in-tf-ranking.html
-
-### Graph
-* [Network models for recommender systems | by Roxana Pamfil | dunnhumby Data Science & Engineering]()https://medium.com/dunnhumby-data-science-engineering/network-models-for-recommender-systems-7f0d6d210ccf
-
-### Reinforcement Learning
-* [RL in RecSys, an overview. In this review, I would like to show… | by Sergey Kolesnikov | Medium](https://scitator.medium.com/rl-in-recsys-an-overview-e02815019a8f)
-
-### Transformers
-* https://medium.com/genifyai/genify-transformer-model-recommender-system-6cd0c8414527
-* https://blog.fastforwardlabs.com/2018/01/22/exploring-recommendation-systems.html
-
-### Autoencoders
-* [How Variational Autoencoders make classical recommender systems obsolete.](https://medium.com/snipfeed/how-variational-autoencoders-make-classical-recommender-systems-obsolete-4df8bae51546)
-* [Implementation of deep generative models for recommender systems in Tensorflow🔮 Implementation of VAEs and GANs](https://medium.com/snipfeed/how-to-implement-deep-generative-models-for-recommender-systems-29110be8971f)
-### Restricted Boltzmann Machines (RBMs) for Collaborative Filtering
-* https://towardsdatascience.com/recsys-series-part-7-the-3-variants-of-boltzmann-machines-for-collaborative-filtering-4c002af258f9
-
-### Others
-* https://taufik-azri.medium.com/recommendation-system-for-retail-customer-3f0f80b84221
-* Spotify - https://www.univ.ai/post/spotify-recommendations
-* https://colab.research.google.com/github/google/eng-edu/blob/main/ml/recommendation-systems/recommendation-systems.ipynb
 
 ### RecSys series
 #### by James Le
@@ -87,12 +44,74 @@
 * **Building recommendation systems with TensorFlow** - https://www.youtube.com/watch?v=RWlLaWMD30M&list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz
 
 
+### Algorithms
+#### Deep learning for recsys
+* [Recommender Systems using Deep Learning in PyTorch from scratch](https://towardsdatascience.com/recommender-systems-using-deep-learning-in-pytorch-from-scratch-f661b8f391d7)
+* [Modern Recommender Systems. - A Deep Dive into the AI algorithms [Jun 2021]](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
+* [pytorch-for-recommenders-101](https://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html) `Apr 2018`
+* [Deep Learning Recommendation Models (DLRM) : A Deep Dive ](https://medium.com/swlh/deep-learning-recommendation-models-dlrm-a-deep-dive-f38a95f47c2c) `Oct 2020`
+* [deep-learning-recommendation-models-dlrm-deep-dive ](https://www.kdnuggets.com/2021/04/deep-learning-recommendation-models-dlrm-deep-dive.html) `Apr 2021`
 
-### NVIDIA
+#### Probabilistic approach
+* https://www.cs.toronto.edu/~amnih/papers/bpmf.pdf
+* https://towardsdatascience.com/probabilistic-matrix-factorization-b7852244a321
+* https://docs.pymc.io/notebooks/probabilistic_matrix_factorization.html
+
+#### Implicit RecSys
+* [Building (and Evaluating) a Recommender System for Implicit Feedback](https://medium.com/@judaikawa/building-and-evaluating-a-recommender-system-for-implicit-feedback-59495d2077d4)
+* -> [Factorization Machines for Item Recommendation with Implicit Feedback Data](https://towardsdatascience.com/factorization-machines-for-item-recommendation-with-implicit-feedback-data-5655a7c749db)
+
+#### Learn to Rank
+* [Pointwise vs. Pairwise vs. Listwise Learning to Rank](https://medium.com/@nikhilbd/pointwise-vs-pairwise-vs-listwise-learning-to-rank-80a8fe8fadfd)
+* [Advances in TF-Ranking](https://ai.googleblog.com/2021/07/advances-in-tf-ranking.html)
+
+#### Graph
+* [Network models for recommender systems](https://medium.com/dunnhumby-data-science-engineering/network-models-for-recommender-systems-7f0d6d210ccf)
+
+#### Reinforcement Learning
+* -> [RL in RecSys, an overview](https://scitator.medium.com/rl-in-recsys-an-overview-e02815019a8f)
+
+#### Transformers
+* [https://medium.com/genifyai/genify-transformer-model-recommender-system-6cd0c8414527](https://medium.com/genifyai/genify-transformer-model-recommender-system-6cd0c8414527)
+
+#### Autoencoders
+* [How Variational Autoencoders make classical recommender systems obsolete.](https://medium.com/snipfeed/how-variational-autoencoders-make-classical-recommender-systems-obsolete-4df8bae51546)
+* [Implementation of deep generative models for recommender systems in Tensorflow🔮 Implementation of VAEs and GANs](https://medium.com/snipfeed/how-to-implement-deep-generative-models-for-recommender-systems-29110be8971f)
+
+#### Hands-on
+* https://taufik-azri.medium.com/recommendation-system-for-retail-customer-3f0f80b84221
+* https://colab.research.google.com/github/google/eng-edu/blob/main/ml/recommendation-systems/recommendation-systems.ipynb
+
+
+### Evaluation metrics for RecSys
+* [Evaluation Metrics for Recommender Systems](https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093)
+* [MAP@k](http://sdsawtelle.github.io/blog/output/mean-average-precision-MAP-for-recommender-systems.html)
+* -> [KDD 2021 Mixed Method Development of Evaluation Metrics](https://kdd2021-mixedmethods.github.io/)
+* -> [KDD 2020 Tutorial on Online User Engagement](https://onlineuserengagement.github.io/)
+
+
+### RecSys in tech companies
+#### DoorDash
+* [**Simple logistic regression model for recommendation**](https://doordash.news/2017/07/07/powering-search-recommendations-at-doordash/)
+* [**Store2Vec**](https://doordash.engineering/2018/04/02/personalized-store-feed-with-vector-embeddings/)
+* [**Using Triplet Loss and Siamese Neural Networks to Train Catalog Item Embeddings**](https://doordash.engineering/2021/09/08/using-twin-neural-networks-to-train-catalog-item-embeddings/)
+* [Things Not Strings](https://doordash.engineering/2020/12/15/understanding-search-intent-with-better-recall/)
+
+#### Airbnb
+* [**Listing Embeddings in Search Ranking**](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
+
+#### Pinteres
+* [Improving the Quality of Recommended Pins with Lightweight Ranking](https://medium.com/pinterest-engineering/improving-the-quality-of-recommended-pins-with-lightweight-ranking-8ff5477b20e3)
+
+#### Spotify
+* -> [How Spotify Recommends Your New Favorite Artist (2019)](https://towardsdatascience.com/how-spotify-recommends-your-new-favorite-artist-8c1850512af0)
+* [How does Spotify's recommendation system work?](https://www.univ.ai/post/spotify-recommendations)
+
+#### NVIDIA
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-1/
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/
 * https://rapids.ai/merlin.html
-* Summit:
+* Summit 2021:
   * https://developer.nvidia.com/blog/using-neural-networks-for-your-recommender-system/?ncid=progr-559712#cid=dl19_progr_en-us
   * https://developer.nvidia.com/blog/nvidia-earns-1st-place-in-recsys-challenge-2021/?ncid=progr-290013#cid=dl19_progr_en-us
   * https://www.nvidia.com/en-us/training/instructor-led-workshops/intelligent-recommender-systems/
@@ -102,21 +121,33 @@
   * https://on24static.akamaized.net/event/32/96/53/0/rt/1/documents/resourceList1627506400731/deeplearningrecsysday21627506398728.pdf
   * https://on24static.akamaized.net/event/32/96/53/0/rt/1/documents/resourceList1627506417526/tensorflowrecommendersnvidia11627506415818.pdf
 
-### Bigquery 
+#### Google
 * [Matrix factorization with BQML](https://medium.com/google-cloud/how-to-build-a-recommendation-system-on-e-commerce-data-using-bigquery-ml-df9af2b8c110)
+* [**Find anything blazingly fast with Google's vector search technology**](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
+
+#### AWS
+* [**What’s new in recommender systems**](https://aws.amazon.com/blogs/media/whats-new-in-recommender-systems/)
+
+
+
+## Videos
+* -> [Personalizing Explainable Recommendations with Multi-objective Contextual Bandits (Spotify)](https://www.youtube.com/watch?v=KoMKgNeUX4k)
+
+
 
 ## Online Courses
 * Recommender Systems and Deep Learning in Python - https://www.udemy.com/course/recommender-systems/
 * Building Recommender Systems with Machine Learning and AI - https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/
 * Google course for RecSys - https://developers.google.com/machine-learning/recommendation
 
-## SIGIR (Special Interest Group on Information Retrieval)
-* https://sigir-ecom.github.io/
+
 
 ## Books
+* [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems)
+
 
  
-## Libraries
+## Code
 ### Implementations
 * https://github.com/lyst/lightfm
 * https://github.com/benfred/implicit
@@ -129,6 +160,12 @@
 * https://github.com/RUCAIBox/RecBole
 * https://github.com/ShopRunner/collie_recs/
 
+### competition and hands-on
+* https://github.com/hojinYang/spotify_recSys_challenge_2018
+* -> [tfrs-movierec-serving](https://github.com/hojinYang/tfrs-movierec-serving)
+* [recsys_autoencoders](https://github.com/marlesson/recsys_autoencoders)
+
+
 
 ## Datasets
 * https://www.kaggle.com/retailrocket/ecommerce-dataset
@@ -137,7 +174,10 @@
 * 30music / impresions / tv audience - https://recsys.deib.polimi.it/datasets/
 
 
+
 ## Papers
+[ACM](https://dl.acm.org/topic/conference-collections/recsys?), 
+
 * **OpenTable recommendations (2015)** - https://www.slideshare.net/BuhwanJeong/deep-learning-c-43529709
 * 2008
   * [Collaborative Filtering for Implicit Feedback Datasets (2008 AT&T)](http://yifanhu.net/PUB/cf.pdf)
@@ -163,6 +203,7 @@
   * [A Generic Coordinate Descent Framework for Learning from Implicit Feedback (2016 Google)](https://arxiv.org/pdf/1611.04666.pdf)
   * [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems (2016b Dato)`autoencder`](https://dl.acm.org/doi/pdf/10.1145/2835776.2835837)
   * [A Neural Autoregressive Approach to Collaborative Filtering (2016)`autoencder`](https://arxiv.org/abs/1605.09477)
+  * -> [Local Item-Item Models For Top-N Recommendation](https://dl.acm.org/doi/pdf/10.1145/2959100.2959185)
 * 2017
   * [Sequential User-based Recurrent Neural Network Recommendations (2017)](https://dl.acm.org/doi/pdf/10.1145/3109859.3109877)
   * [Neural Collaborative Filtering (2017)](https://arxiv.org/pdf/1708.05031.pdf)
@@ -182,6 +223,7 @@
   * [MULTI-VAE: Variational Autoencoders for Collaborative Filtering (2018 Netflix/Google)`autoencder`](https://arxiv.org/pdf/1802.05814.pdf)
   * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018)
   * [Adversarial Collaborative Auto-encoder for Top-N Recommendation (2018)](https://arxiv.org/pdf/1808.05361.pdf)
+  * [Causal Embeddings for Recommendation]()
 * 2019 
   * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)
   * [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)`two tower`**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
@@ -199,6 +241,7 @@
   * [**Embarrassingly Shallow Autoencoders for Sparse Data** (2019 Netflix)`autoencoder`](https://arxiv.org/abs/1905.03375)
   * [Collaborative Filtering via High-Dimensional Regression (2019 Netflix)](https://arxiv.org/pdf/1904.13033.pdf)
   * [RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback (2019 Samsung)](https://arxiv.org/pdf/1912.11160.pdf)
+  * [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (2019 Alibaba)](https://arxiv.org/pdf/1905.06874.pdf)
 * 2020
   * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)
   * [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (2020 Tencet)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
@@ -209,6 +252,7 @@
   * [Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations (2020 Google)`two tower`](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b9f4e78a8830fe5afcf2f0452862fb3c0d6584ea.pdf)
   * [On sampled metrics for item recommendation (2020 Google)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226)
   * [Neural Collaborative Filtering vs. Matrix Factorization Revisited (2020)](https://arxiv.org/pdf/2005.09683.pdf)
+  * [Temporal-Contextual Recommendation in Real-Time (2020 Amazon)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403278)
 * 2021
   * [Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (2021 Amazon)](https://arxiv.org/pdf/2109.11059.pdf)
   * [Theoretical Understandings of Product Embedding for E-commerce Machine Learning (2021 Walmart)](https://arxiv.org/pdf/2102.12029.pdf)
@@ -218,12 +262,14 @@
   * [A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research (2021)`review`](https://arxiv.org/pdf/1911.07698.pdf)
   * [One Person, One Model, One World: Learning Continual User Representation without Forgetting (2021)](https://arxiv.org/pdf/2009.13724.pdf)
 
+
+### Papers by topics
 Two tower model 
 * [Learning Text Similarity with Siamese Recurrent Networks (2016 textkernel)](https://aclanthology.org/W16-1617.pdf)
 * [Smart Reply: Automated Response Suggestion for Email (2016 Google)](https://arxiv.org/pdf/1606.04870v1.pdf)
 * [Learning Semantic Textual Similarity from Conversations - (2018 Google)](https://arxiv.org/pdf/1804.07754.pdf)
 
-product search recommendation
+Product search recommendation
 * [A Transformer-based Embedding Model for Personalized Product Search (2020)](https://arxiv.org/pdf/2005.08936.pdf)
 
 eCommerce
@@ -233,14 +279,15 @@ eCommerce
 * [How to Grow a (Product) Tree Personalized Category Suggestions for eCommerce Type-Ahead (2020 Coveo)](https://aclanthology.org/2020.ecnlp-1.2.pdf)
 * [Shopper intent prediction from clickstream e‑commerce data with minimal browsing information (2020)](https://www.nature.com/articles/s41598-020-73622-y.pdf)
 
-### Awesone list
+
+
+## Other Awesone list
 * https://github.com/hongleizhang/RSPapers
 * https://github.com/wzhe06/Reco-papers
 * https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 * https://paperswithcode.com/task/recommendation-systems?page=2
 * https://github.com/microsoft/recommenders
 * https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising
-
-### Papers with code
-* https://paperswithcode.com/task/recommendation-systems
+* [SIGIR (Special Interest Group on Information Retrieval)](https://sigir-ecom.github.io/)
+* [Papers with code](https://paperswithcode.com/task/recommendation-systems)
 

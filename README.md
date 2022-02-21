@@ -23,6 +23,7 @@
 * https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48
 * [Applying word2vec to Recommenders and Advertising `Jun 2018`](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/)
 * [Instacart Market Basket Analysis. Winner’s Interview: 2nd place, Kazuki Onodera](https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded)
+* [Back From RecSys 2021](https://medium.com/@santiago_19815/back-from-recsys-2021-288c7fa40422)
 
 
 ### RecSys series
@@ -37,8 +38,8 @@
 
 #### by Eugen Yan
 * https://eugeneyan.com/tag/recsys/
-* RecSys 2021 - Papers and Talks to Chew on - https://eugeneyan.com/writing/recsys2021/
-* https://eugeneyan.com/writing/patterns-for-personalization/
+* [RecSys 2021 - Papers and Talks to Chew on](https://eugeneyan.com/writing/recsys2021/)
+* [Patterns for Personalization](https://eugeneyan.com/writing/patterns-for-personalization/)
 
 #### by Wei Wei
 * **Building recommendation systems with TensorFlow** - https://www.youtube.com/watch?v=RWlLaWMD30M&list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz
@@ -107,6 +108,9 @@
 * -> [How Spotify Recommends Your New Favorite Artist (2019)](https://towardsdatascience.com/how-spotify-recommends-your-new-favorite-artist-8c1850512af0)
 * [How does Spotify's recommendation system work?](https://www.univ.ai/post/spotify-recommendations)
 
+#### Uber
+* [Food Discovery with Uber Eats: Recommending for the Marketplace (2018)](https://eng.uber.com/uber-eats-recommending-marketplace/)
+
 #### NVIDIA
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-1/
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/
@@ -132,6 +136,8 @@
 
 ## Videos
 * -> [Personalizing Explainable Recommendations with Multi-objective Contextual Bandits (Spotify)](https://www.youtube.com/watch?v=KoMKgNeUX4k)
+* -> [MORS: Workshop on Multi-Objective Recommender Systems](https://www.youtube.com/watch?v=CeNfq6_VX2s)
+* [**Shared Neural Item Representations for Completely Cold Start Problem**](https://www.youtube.com/watch?v=oLsdP47K8qc)
 
 
 
@@ -253,6 +259,7 @@
   * [On sampled metrics for item recommendation (2020 Google)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226)
   * [Neural Collaborative Filtering vs. Matrix Factorization Revisited (2020)](https://arxiv.org/pdf/2005.09683.pdf)
   * [Temporal-Contextual Recommendation in Real-Time (2020 Amazon)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403278)
+  * [**Neural Collaborative Filtering vs. Matrix Factorization Revisited (2020 Google)**](https://dl.acm.org/doi/pdf/10.1145/3383313.3412488)
 * 2021
   * [Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (2021 Amazon)](https://arxiv.org/pdf/2109.11059.pdf)
   * [Theoretical Understandings of Product Embedding for E-commerce Machine Learning (2021 Walmart)](https://arxiv.org/pdf/2102.12029.pdf)
@@ -261,6 +268,10 @@
   * [**Item Recommendation from Implicit Feedback (2021 Google)**](https://arxiv.org/pdf/2101.08769.pdf)
   * [A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research (2021)`review`](https://arxiv.org/pdf/1911.07698.pdf)
   * [One Person, One Model, One World: Learning Continual User Representation without Forgetting (2021)](https://arxiv.org/pdf/2009.13724.pdf)
+  * [Towards Source-Aligned Variational Models for Cross-Domain Recommendation `autoencoder`](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7433&context=sis_research )
+  * -> [Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher (Netflix)](https://dl.acm.org/doi/pdf/10.1145/3460231.3474273)
+  * -> [Shared Neural Item Representations for Completely Cold Start Problem ()](https://dl.acm.org/doi/abs/10.1145/3460231.3474228)
+  * [Reenvisioning the comparison between Neural Collaborative Filtering and Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3460231.3475944)
 
 
 ### Papers by topics

@@ -150,6 +150,7 @@
 
 ## Books
 * [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems)
+* [Recommender Systems Handbook 3rd ed. 2022 Edition](https://www.amazon.com/Recommender-Systems-Handbook-Francesco-Ricci/dp/1071621963)
 
 
  

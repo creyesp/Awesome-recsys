@@ -115,7 +115,7 @@
 * [Detecting image similarity in near real time using apache flink](https://medium.com/pinterest-engineering/detecting-image-similarity-in-near-real-time-using-apache-flink-723ce072b7d2)
 
 #### Pinteres
-* [Improving the Quality of Recommended Pins with Lightweight Ranking](https://medium.com/pinterest-engineering/improving-the-quality-of-recommended-pins-with-lightweight-ranking-8ff5477b20e3)
+* [**Improving the Quality of Recommended Pins with Lightweight Ranking** (2020)](https://medium.com/pinterest-engineering/improving-the-quality-of-recommended-pins-with-lightweight-ranking-8ff5477b20e3)
 
 #### Spotify
 * -> [How Spotify Recommends Your New Favorite Artist (2019)](https://towardsdatascience.com/how-spotify-recommends-your-new-favorite-artist-8c1850512af0)

@@ -100,6 +100,19 @@
 
 #### Airbnb
 * [**Listing Embeddings in Search Ranking**](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
+* [Improving Deep Learning for Ranking Stays at Airbnb](https://medium.com/airbnb-engineering/improving-deep-learning-for-ranking-stays-at-airbnb-959097638bde)
+  * [Applying Deep Learning To Airbnb Search](https://arxiv.org/pdf/1810.09591.pdf)
+  * [Improving Deep Learning For Airbnb Search](https://arxiv.org/pdf/2002.05515.pdf)
+  * [Managing Diversity in Airbnb Search](https://arxiv.org/pdf/2004.02621.pdf)
+* [How we use automl multi task learning and multi tower models for pinterest ads](https://medium.com/pinterest-engineering/how-we-use-automl-multi-task-learning-and-multi-tower-models-for-pinterest-ads-db966c3dc99e)
+* [Pinnersage multi modal user embedding framework for recommendations at pinterest](https://medium.com/pinterest-engineering/pinnersage-multi-modal-user-embedding-framework-for-recommendations-at-pinterest-bfd116b49475)
+* [Driving shopping upsells from pinterest search](https://medium.com/pinterest-engineering/driving-shopping-upsells-from-pinterest-search-d06329255402)
+* [Using pid controllers to diversify content types on home feed](https://medium.com/pinterest-engineering/using-pid-controllers-to-diversify-content-types-on-home-feed-1c7195c89218)
+* [Searchsage learning search query representations at pinterest](https://medium.com/pinterest-engineering/searchsage-learning-search-query-representations-at-pinterest-654f2bb887fc)
+* [Pinterest home feed unified lightweight scoring a two tower approach](https://medium.com/pinterest-engineering/pinterest-home-feed-unified-lightweight-scoring-a-two-tower-approach-b3143ac70b55)
+* [The machine learning behind delivering relevant ads](https://medium.com/pinterest-engineering/the-machine-learning-behind-delivering-relevant-ads-8987fc5ba1c0)
+* [Advertiser recommendation systems at pinterest](https://medium.com/pinterest-engineering/advertiser-recommendation-systems-at-pinterest-ccb255fbde20)
+* [Detecting image similarity in near real time using apache flink](https://medium.com/pinterest-engineering/detecting-image-similarity-in-near-real-time-using-apache-flink-723ce072b7d2)
 
 #### Pinteres
 * [Improving the Quality of Recommended Pins with Lightweight Ranking](https://medium.com/pinterest-engineering/improving-the-quality-of-recommended-pins-with-lightweight-ranking-8ff5477b20e3)

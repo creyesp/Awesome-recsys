@@ -116,7 +116,7 @@
 
 #### Pinteres
 * [**Improving the Quality of Recommended Pins with Lightweight Ranking** (2020)](https://medium.com/pinterest-engineering/improving-the-quality-of-recommended-pins-with-lightweight-ranking-8ff5477b20e3)
-
+* [**Advertiser Recommendation Systems at Pinterest**](https://medium.com/pinterest-engineering/advertiser-recommendation-systems-at-pinterest-ccb255fbde20)
 #### Spotify
 * -> [How Spotify Recommends Your New Favorite Artist (2019)](https://towardsdatascience.com/how-spotify-recommends-your-new-favorite-artist-8c1850512af0)
 * [How does Spotify's recommendation system work?](https://www.univ.ai/post/spotify-recommendations)

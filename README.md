@@ -163,6 +163,7 @@
 
 ## Books
 * [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems)
+* [Recommender Systems Handbook 2rd ed. 2011 Edition](https://raw.githubusercontent.com/melissakou/Recommender-Systems-Handbook/main/%5BBook%5D%20Recommender%20Systems%20Handbook.pdf)
 * [Recommender Systems Handbook 3rd ed. 2022 Edition](https://www.amazon.com/Recommender-Systems-Handbook-Francesco-Ricci/dp/1071621963)
 
 

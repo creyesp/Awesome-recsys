@@ -97,6 +97,7 @@
 * [**Store2Vec**](https://doordash.engineering/2018/04/02/personalized-store-feed-with-vector-embeddings/)
 * [**Using Triplet Loss and Siamese Neural Networks to Train Catalog Item Embeddings**](https://doordash.engineering/2021/09/08/using-twin-neural-networks-to-train-catalog-item-embeddings/)
 * [Things Not Strings](https://doordash.engineering/2020/12/15/understanding-search-intent-with-better-recall/)
+* [**Personalized Cuisine Filter**](https://doordash.engineering/2020/01/27/personalized-cuisine-filter/)
 
 #### Airbnb
 * [**Listing Embeddings in Search Ranking**](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)

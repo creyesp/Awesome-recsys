@@ -11,3 +11,6 @@ showing item i might make item j less attractive if i and j are very close or
 even interchangeable. Instead, it might be better to choose an item l that
 complements i better – even if l has a lower score than j. Diversification of result
 sets is an example to avoid some of these effects"
+
+
+"In netflix data set naybe user has a preference by popular movie against super personalized recommendations, it has a opposite behavior on music dataset where user prefer much perzonalied recommendations"

@@ -287,6 +287,8 @@
   * -> [Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher (Netflix)](https://dl.acm.org/doi/pdf/10.1145/3460231.3474273)
   * -> [Shared Neural Item Representations for Completely Cold Start Problem ()](https://dl.acm.org/doi/abs/10.1145/3460231.3474228)
   * [Reenvisioning the comparison between Neural Collaborative Filtering and Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3460231.3475944)
+  * [**Graph Learning based Recommender Systems: A Review**`review`](https://arxiv.org/pdf/2105.06339.pdf)
+
 
 
 ### Papers by topics

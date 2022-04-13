@@ -198,6 +198,7 @@
 
 
 ## Papers
+* [Connected papers](https://www.connectedpapers.com/)
 [ACM](https://dl.acm.org/topic/conference-collections/recsys?), 
 
 * **OpenTable recommendations (2015)** - https://www.slideshare.net/BuhwanJeong/deep-learning-c-43529709

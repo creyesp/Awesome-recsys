@@ -159,6 +159,8 @@
 * Recommender Systems and Deep Learning in Python - https://www.udemy.com/course/recommender-systems/
 * Building Recommender Systems with Machine Learning and AI - https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/
 * Google course for RecSys - https://developers.google.com/machine-learning/recommendation
+* ACM Summer School on Recommender Systems 2017 - http://pro.unibz.it/projects/schoolrecsys17/program.html
+
 
 
 
@@ -194,6 +196,8 @@
 * https://gist.github.com/entaroadun/1653794
 * https://github.com/RUCAIBox/RecSysDatasets
 * 30music / impresions / tv audience - https://recsys.deib.polimi.it/datasets/
+* http://archive.ics.uci.edu/ml/datasets/KASANDR
+
 
 
 
@@ -270,12 +274,15 @@
   * [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (2020 Tencet)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
   * [Contextual and Sequential User Embeddings for Large-Scale Music Recommendation (2020)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248)
   * [P-Companion: A Principled Framework for Diversified Complementary Product Recommendation (2020 Aamzon)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412732)
-  - https://www.amazon.science/blog/improving-complementary-product-recommendations
+  * https://www.amazon.science/blog/improving-complementary-product-recommendations
   * [Pre-training Tasks for Embedding-based Large-scale Retrieval (2020 Google)](https://arxiv.org/pdf/2002.03932.pdf)
   * [Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations (2020 Google)`two tower`](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b9f4e78a8830fe5afcf2f0452862fb3c0d6584ea.pdf)
   * [On sampled metrics for item recommendation (2020 Google)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226)
   * [Temporal-Contextual Recommendation in Real-Time (2020 Amazon)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403278)
   * [**Neural Collaborative Filtering vs. Matrix Factorization Revisited (2020 Google)**](https://dl.acm.org/doi/pdf/10.1145/3383313.3412488)
+  * [An Embedding Learning Framework for Numerical Features in CTR Prediction](https://arxiv.org/pdf/2012.08986.pdf)
+  * [Deep Retrieval: Learning A Retrievable Structure for Large-Scale Recommendations (ByteDance)](https://arxiv.org/pdf/2007.07203v2.pdf)
+  * [Embedding-based Retrieval in Facebook Search (Facebook)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305)
 * 2021
   * [Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (2021 Amazon)](https://arxiv.org/pdf/2109.11059.pdf)
   * [Theoretical Understandings of Product Embedding for E-commerce Machine Learning (2021 Walmart)](https://arxiv.org/pdf/2102.12029.pdf)
@@ -317,6 +324,7 @@ eCommerce
 * https://paperswithcode.com/task/recommendation-systems?page=2
 * https://github.com/microsoft/recommenders
 * https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising
+* https://github.com/scnu-dil/awesome-RecSys
 * [SIGIR (Special Interest Group on Information Retrieval)](https://sigir-ecom.github.io/)
 * [Papers with code](https://paperswithcode.com/task/recommendation-systems)
 

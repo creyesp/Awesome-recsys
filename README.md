@@ -219,7 +219,7 @@
 * 2015
   * [AutoRec: Autoencoders Meet Collaborative Filtering (2015)`autoencder`](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
   * [Metadata Embeddings for User and Item Cold-start Recommendations (2015 Lyst)](https://arxiv.org/pdf/1507.08439.pdf)
-  * [The Netflix Recommender System: Algorithms, Business Value and Innovation (2015 Netflix)](https://dl.acm.org/doi/pdf/10.1145/2843948)
+  * -> [The Netflix Recommender System: Algorithms, Business Value and Innovation (2015 Netflix)](https://dl.acm.org/doi/pdf/10.1145/2843948)
 * 2016
   * [**E-commerce in Your Inbox: Product Recommendations at Scale (2016 Yahoo)**](https://arxiv.org/pdf/1606.07154.pdf)
   * [**Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation (2016 Criteo)**](https://arxiv.org/pdf/1607.07326.pdf)

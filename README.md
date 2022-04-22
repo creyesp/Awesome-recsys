@@ -160,6 +160,7 @@
 * Building Recommender Systems with Machine Learning and AI - https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/
 * Google course for RecSys - https://developers.google.com/machine-learning/recommendation
 * ACM Summer School on Recommender Systems 2017 - http://pro.unibz.it/projects/schoolrecsys17/program.html
+* Recommender Systems Specialization (University of Minnesota) - https://www.coursera.org/specializations/recommender-systems
 
 
 

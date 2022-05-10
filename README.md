@@ -72,6 +72,7 @@
 #### Reinforcement Learning
 * -> [RL in RecSys, an overview](https://scitator.medium.com/rl-in-recsys-an-overview-e02815019a8f)
 * [Build a reinforcement learning recommendation application using Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/build-reinforcement-learning-recommendation-application-using-vertex-ai)
+* [Building Self learning Recommendation System using Reinforcement Learning : Part I](https://bayesianquest.com/2022/01/03/building-self-learning-recommendation-system-using-reinforcement-learning-part-i/)
 
 
 #### Transformers
@@ -127,6 +128,12 @@
 #### Uber
 * [Food Discovery with Uber Eats: Recommending for the Marketplace (2018)](https://eng.uber.com/uber-eats-recommending-marketplace/)
 
+#### Facebook
+* [Powered by AI: Instagram’s Explore recommender system](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/)
+
+#### fennel
+* [Real World Recommendation System - Part 1](https://blog.fennel.ai/p/real-world-recommendation-system?s=r)
+
 #### NVIDIA
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-1/
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/
@@ -140,6 +147,7 @@
   * https://on24static.akamaized.net/event/32/96/53/0/rt/1/documents/resourceList1627506368727/nvidiarecsyssummit1627506366215.pdf
   * https://on24static.akamaized.net/event/32/96/53/0/rt/1/documents/resourceList1627506400731/deeplearningrecsysday21627506398728.pdf
   * https://on24static.akamaized.net/event/32/96/53/0/rt/1/documents/resourceList1627506417526/tensorflowrecommendersnvidia11627506415818.pdf
+* [**Recommender Systems, Not Just Recommender Models (four stages)**](https://medium.com/nvidia-merlin/recommender-systems-not-just-recommender-models-485c161c755e)
 
 #### Google
 * [Matrix factorization with BQML](https://medium.com/google-cloud/how-to-build-a-recommendation-system-on-e-commerce-data-using-bigquery-ml-df9af2b8c110)
@@ -172,7 +180,7 @@
 * [Practical Recommender Systems](https://www.manning.com/books/practical-recommender-systems)
 * [Recommender Systems Handbook 2rd ed. 2011 Edition](https://raw.githubusercontent.com/melissakou/Recommender-Systems-Handbook/main/%5BBook%5D%20Recommender%20Systems%20Handbook.pdf)
 * [Recommender Systems Handbook 3rd ed. 2022 Edition](https://www.amazon.com/Recommender-Systems-Handbook-Francesco-Ricci/dp/1071621963)
-
+* [Recommender Systems Textbook 1er ed 2016 Edition](https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal-dp-3319296574/dp/3319296574/ref=mt_other?_encoding=UTF8&me=&qid=)
 
  
 ## Code
@@ -301,7 +309,9 @@
   * -> [Shared Neural Item Representations for Completely Cold Start Problem ()](https://dl.acm.org/doi/abs/10.1145/3460231.3474228)
   * [Reenvisioning the comparison between Neural Collaborative Filtering and Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3460231.3475944)
   * [**Graph Learning based Recommender Systems: A Review**`review`](https://arxiv.org/pdf/2105.06339.pdf)
-
+  * [Reinforcement learning based recommender systems: A survey`survey`](https://arxiv.org/pdf/2101.06286.pdf)
+* 2022
+  * [Cross Pairwise Ranking for Unbiased Item Recommendation](https://arxiv.org/pdf/2204.12176v1.pdf)
 
 
 ### Papers by topics

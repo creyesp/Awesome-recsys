@@ -71,6 +71,8 @@
 
 #### Reinforcement Learning
 * -> [RL in RecSys, an overview](https://scitator.medium.com/rl-in-recsys-an-overview-e02815019a8f)
+* [Build a reinforcement learning recommendation application using Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/build-reinforcement-learning-recommendation-application-using-vertex-ai)
+
 
 #### Transformers
 * [https://medium.com/genifyai/genify-transformer-model-recommender-system-6cd0c8414527](https://medium.com/genifyai/genify-transformer-model-recommender-system-6cd0c8414527)
@@ -142,6 +144,7 @@
 #### Google
 * [Matrix factorization with BQML](https://medium.com/google-cloud/how-to-build-a-recommendation-system-on-e-commerce-data-using-bigquery-ml-df9af2b8c110)
 * [**Find anything blazingly fast with Google's vector search technology**](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
+* [Looking to build a recommendation system on Google Cloud? Leverage the following guidelines to identify the right solution for you (Part I)](https://cloud.google.com/blog/topics/developers-practitioners/looking-build-recommendation-system-google-cloud-leverage-following-guidelines-identify-right-solution-you-part-i)
 
 #### AWS
 * [**What’s new in recommender systems**](https://aws.amazon.com/blogs/media/whats-new-in-recommender-systems/)

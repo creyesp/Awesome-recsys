@@ -181,6 +181,8 @@
 * [Recommender Systems Handbook 2rd ed. 2011 Edition](https://raw.githubusercontent.com/melissakou/Recommender-Systems-Handbook/main/%5BBook%5D%20Recommender%20Systems%20Handbook.pdf)
 * [Recommender Systems Handbook 3rd ed. 2022 Edition](https://www.amazon.com/Recommender-Systems-Handbook-Francesco-Ricci/dp/1071621963)
 * [Recommender Systems Textbook 1er ed 2016 Edition](https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal-dp-3319296574/dp/3319296574/ref=mt_other?_encoding=UTF8&me=&qid=)
+* [Recommendation Engines](https://www.amazon.com/Recommendation-Engines-Press-Essential-Knowledge/dp/0262539071)
+* [Recommender Systems: An Introduction](https://www.amazon.com/Recommender-Systems-Introduction-Dietmar-Jannach/dp/0521493366)
 
  
 ## Code

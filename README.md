@@ -314,6 +314,7 @@
   * [Reinforcement learning based recommender systems: A survey`survey`](https://arxiv.org/pdf/2101.06286.pdf)
 * 2022
   * [Cross Pairwise Ranking for Unbiased Item Recommendation](https://arxiv.org/pdf/2204.12176v1.pdf)
+  * [Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/abs/2206.05941)[Code](https://github.com/rucaibox/unisrec)
 
 
 ### Papers by topics

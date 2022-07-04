@@ -73,6 +73,7 @@
 * -> [RL in RecSys, an overview](https://scitator.medium.com/rl-in-recsys-an-overview-e02815019a8f)
 * [Build a reinforcement learning recommendation application using Vertex AI](https://cloud.google.com/blog/topics/developers-practitioners/build-reinforcement-learning-recommendation-application-using-vertex-ai)
 * [Building Self learning Recommendation System using Reinforcement Learning : Part I](https://bayesianquest.com/2022/01/03/building-self-learning-recommendation-system-using-reinforcement-learning-part-i/)
+* [Reinforcement learning in Recommender systems, with Kim Folk](https://www.youtube.com/watch?v=1a5YSU2ho_I)
 
 
 #### Transformers
@@ -92,6 +93,7 @@
 * [MAP@k](http://sdsawtelle.github.io/blog/output/mean-average-precision-MAP-for-recommender-systems.html)
 * -> [KDD 2021 Mixed Method Development of Evaluation Metrics](https://kdd2021-mixedmethods.github.io/)
 * -> [KDD 2020 Tutorial on Online User Engagement](https://onlineuserengagement.github.io/)
+* [RecSys 2020 Session P2A: Evaluating and Explaining Recommendations](https://www.youtube.com/watch?v=90xFB3qZxuI)
 
 
 ### RecSys in tech companies
@@ -172,6 +174,7 @@
 * Google course for RecSys - https://developers.google.com/machine-learning/recommendation
 * ACM Summer School on Recommender Systems 2017 - http://pro.unibz.it/projects/schoolrecsys17/program.html
 * Recommender Systems Specialization (University of Minnesota) - https://www.coursera.org/specializations/recommender-systems
+* Build an ML Recommender System - https://www.manning.com/liveproject/build-an-ML-recommender-system
 
 
 

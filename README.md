@@ -139,7 +139,16 @@
 #### NVIDIA
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-1/
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/
-* https://rapids.ai/merlin.html
+* [Nvidea Merlin](https://rapids.ai/merlin.html)
+  * [Nvidia Merlin documentation ](https://developer.nvidia.com/nvidia-merlin)
+  * [NVTabular doc](https://nvidia-merlin.github.io/NVTabular/main/index.html)
+  * [NVIDIA Merlin vs TensorFlow Recommenders: A comparison of these recommendation frameworks](https://analyticsindiamag.com/nvidia-merlin-vs-tensorflow-recommenders-a-comparison-of-these-recommendation-frameworks/)
+  * [Training Deep Learning Based Recommender Systems 9x Faster with TensorFlow](https://medium.com/nvidia-merlin/training-deep-learning-based-recommender-systems-9x-faster-with-tensorflow-cc5a2572ea49)
+  * [GTC 2020: NVTabular: GPU Accelerated ETL for Recommender Systems](https://resources.nvidia.com/c/GTC2020-s21651?x=yBY2dT&lx=jsVNdg)
+  * [](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/#)
+  * [Overcoming Data Preprocessing Bottlenecks with TensorFlow Data Service, NVIDIA DALI, and Other Methods](https://towardsdatascience.com/overcoming-data-preprocessing-bottlenecks-with-tensorflow-data-service-nvidia-dali-and-other-d6321917f851)
+  * [Accelerating ETL for Recommender Systems on NVIDIA GPUs with NVTabular](https://developer.nvidia.com/blog/accelerating-etl-for-recsys-on-gpus-with-nvtabular/)
+  * [Scalable Recommender Systems with NVTabular- A Fast Tabular Data Loading and Transformation Library](https://medium.com/rapids-ai/gpu-recommender-systems-with-nvtabular-eee056c37ea0)
 * Summit 2021:
   * https://developer.nvidia.com/blog/using-neural-networks-for-your-recommender-system/?ncid=progr-559712#cid=dl19_progr_en-us
   * https://developer.nvidia.com/blog/nvidia-earns-1st-place-in-recsys-challenge-2021/?ncid=progr-290013#cid=dl19_progr_en-us
@@ -175,6 +184,8 @@
 * ACM Summer School on Recommender Systems 2017 - http://pro.unibz.it/projects/schoolrecsys17/program.html
 * Recommender Systems Specialization (University of Minnesota) - https://www.coursera.org/specializations/recommender-systems
 * Build an ML Recommender System - https://www.manning.com/liveproject/build-an-ML-recommender-system
+* Workshops
+  * Workshop on context-awere recommendation system - https://cars-workshop.com/cars-2021
 
 
 

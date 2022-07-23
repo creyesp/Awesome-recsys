@@ -348,6 +348,13 @@ eCommerce
 * [Shopper intent prediction from clickstream e‑commerce data with minimal browsing information (2020)](https://www.nature.com/articles/s41598-020-73622-y.pdf)
 
 
+## Recsys Conference
+* [ACM Recsys](https://recsys.acm.org/)
+* [ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2022/)
+* [ACM International Conference on Information and Knowledge Management - CIKM](https://www.cikm2021.org/)
+
+
+
 
 ## Other Awesone list
 * https://github.com/hongleizhang/RSPapers

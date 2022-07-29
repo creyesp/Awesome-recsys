@@ -158,6 +158,8 @@
   * https://on24static.akamaized.net/event/32/96/53/0/rt/1/documents/resourceList1627506368727/nvidiarecsyssummit1627506366215.pdf
   * https://on24static.akamaized.net/event/32/96/53/0/rt/1/documents/resourceList1627506400731/deeplearningrecsysday21627506398728.pdf
   * https://on24static.akamaized.net/event/32/96/53/0/rt/1/documents/resourceList1627506417526/tensorflowrecommendersnvidia11627506415818.pdf
+* [Recommender Systems Summit 2022](https://www.youtube.com/watch?v=9rouLchcC0k&t=97s)
+  
 * [**Recommender Systems, Not Just Recommender Models (four stages)**](https://medium.com/nvidia-merlin/recommender-systems-not-just-recommender-models-485c161c755e)
 
 #### Google

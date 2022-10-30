@@ -1,4 +1,5 @@
 # Awesome-recsys
+"Recommender systems are often characterized as tools that help users in their decision-making process"
 1. [Blogs post](#blogs-post)
 2. [Videos](#Videos)
 3. [Online Courses](#Online-Courses)
@@ -188,6 +189,7 @@
 * Build an ML Recommender System - https://www.manning.com/liveproject/build-an-ML-recommender-system
 * Workshops
   * Workshop on context-awere recommendation system - https://cars-workshop.com/cars-2021
+* [Machine Learning Recommender System With Python 2022 `Data Academy`](https://www.youtube.com/playlist?list=PLsugXK9b1w1nlDH0rbxIufJLeC3MsbRaa)
 
 
 
@@ -244,6 +246,7 @@
   * [Factorization Machine (2010)](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 * 2011
   * [SLIM: Sparse Linear Methods for Top-N Recommender Systems (2011)](http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf) 
+  * [Adaptive bootstrapping of recommender systems using decision trees](https://dl.acm.org/doi/10.1145/1935826.1935910)
 * 2013
   * [**Deep content-based music recommendation (2013 Spotify)**](https://papers.nips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
 * 2015
@@ -281,6 +284,8 @@
   * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018)
   * [Adversarial Collaborative Auto-encoder for Top-N Recommendation (2018)](https://arxiv.org/pdf/1808.05361.pdf)
   * [Causal Embeddings for Recommendation]()
+  * [Sequence-Aware Recommender Systems](https://arxiv.org/abs/1802.08452)
+  * [Offline A/B testing for Recommender Systems `Criteo Labs`](https://arxiv.org/abs/1801.07030)
 * 2019 
   * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)
   * [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)`two tower`**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
@@ -314,6 +319,7 @@
   * [An Embedding Learning Framework for Numerical Features in CTR Prediction](https://arxiv.org/pdf/2012.08986.pdf)
   * [Deep Retrieval: Learning A Retrievable Structure for Large-Scale Recommendations (ByteDance)](https://arxiv.org/pdf/2007.07203v2.pdf)
   * [Embedding-based Retrieval in Facebook Search (Facebook)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305)
+  * -> [Causal Inference for Recommender Systems](https://dl.acm.org/doi/10.1145/3383313.3412225)
 * 2021
   * [Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (2021 Amazon)](https://arxiv.org/pdf/2109.11059.pdf)
   * [Theoretical Understandings of Product Embedding for E-commerce Machine Learning (2021 Walmart)](https://arxiv.org/pdf/2102.12029.pdf)
@@ -328,6 +334,8 @@
   * [Reenvisioning the comparison between Neural Collaborative Filtering and Matrix Factorization](https://dl.acm.org/doi/abs/10.1145/3460231.3475944)
   * [**Graph Learning based Recommender Systems: A Review**`review`](https://arxiv.org/pdf/2105.06339.pdf)
   * [Reinforcement learning based recommender systems: A survey`survey`](https://arxiv.org/pdf/2101.06286.pdf)
+  * [**Recommendations as Treatments**](https://ojs.aaai.org/index.php/aimagazine/article/view/18141/18875)
+  * [**Deep Learning for Recommender Systems: A Netflix Case Study** `Netflix`](https://ojs.aaai.org/index.php/aimagazine/article/view/18140/18876)
 * 2022
   * [Cross Pairwise Ranking for Unbiased Item Recommendation](https://arxiv.org/pdf/2204.12176v1.pdf)
   * [Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/abs/2206.05941)[Code](https://github.com/rucaibox/unisrec)
@@ -370,4 +378,8 @@ eCommerce
 * https://github.com/scnu-dil/awesome-RecSys
 * [SIGIR (Special Interest Group on Information Retrieval)](https://sigir-ecom.github.io/)
 * [Papers with code](https://paperswithcode.com/task/recommendation-systems)
+
+# Profesors
+* [Thorsten Joachims, Cornell University](https://www.cs.cornell.edu/people/tj/)
+
 

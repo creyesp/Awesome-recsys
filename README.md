@@ -305,12 +305,13 @@
   * [RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback (2019 Samsung)](https://arxiv.org/pdf/1912.11160.pdf)
   * [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (2019 Alibaba)](https://arxiv.org/pdf/1905.06874.pdf)
   * [**Managing Popularity Bias in Recommender Systems with Personalized Re-ranking** (2019)](https://arxiv.org/pdf/1901.07555.pdf)
+  * [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/abs/1905.07854)
 * 2020
   * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)
   * [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (2020 Tencet)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
   * [Contextual and Sequential User Embeddings for Large-Scale Music Recommendation (2020)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248)
-  * [P-Companion: A Principled Framework for Diversified Complementary Product Recommendation (2020 Aamzon)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412732)
-  * https://www.amazon.science/blog/improving-complementary-product-recommendations
+  * -> [P-Companion: A Principled Framework for Diversified Complementary Product Recommendation (2020 Aamzon)](https://dl.acm.org/doi/pdf/10.1145/3340531.3412732)
+    * [Improving complementary-product recommendations `Amazon`](https://www.amazon.science/blog/improving-complementary-product-recommendations)
   * [Pre-training Tasks for Embedding-based Large-scale Retrieval (2020 Google)](https://arxiv.org/pdf/2002.03932.pdf)
   * [Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations (2020 Google)`two tower`](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b9f4e78a8830fe5afcf2f0452862fb3c0d6584ea.pdf)
   * [On sampled metrics for item recommendation (2020 Google)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226)

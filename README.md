@@ -363,8 +363,22 @@ eCommerce
 
 ## Recsys Conference
 * [ACM Recsys](https://recsys.acm.org/)
+* [ACM Recsys conference](https://dl.acm.org/conference/recsys)
 * [ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2022/)
 * [ACM International Conference on Information and Knowledge Management - CIKM](https://www.cikm2021.org/)
+
+### Videos
+RecSys 2020 (https://slideslive.com/acmrecsys)
+* [**A Human Perspective on Algorithmic Similarity** `Netflix`](https://slideslive.com/38934788)
+* [**Balancing Relevance and Discovery to Inspire Customers in the IKEA App** `IKEA`](https://slideslive.com/38934789)
+* [**Behavior-based Popularity Ranking on Amazon Video** `Amazon`](https://slideslive.com/38934790)
+* [**Building a Reciprocal Recommendation System at Scale From Scratch: Learnings from One of Japan's Prominent Dating Applications** `Tapple`](https://slideslive.com/38934791)
+* [Counterfactual Learning for Recommender System `Huawei`](https://slideslive.com/38934792)
+* [Developing Recommendation System to provide a Personalized Learning experience at Chegg `Chegg`](https://slideslive.com/38934793)
+* [Investigating Multimodal Features for Video Recommendations at Globoplay `Globoplay`](https://slideslive.com/38934794)
+* [On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career `Talto`](https://slideslive.com/38934795)
+* [Query as Context for Item-to-Item Recommendation `Etsy`](https://slideslive.com/38934796)
+* [The Embeddings that Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference `Coveo`](https://slideslive.com/38934797)
 
 
 

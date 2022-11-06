@@ -25,6 +25,11 @@
 * [Applying word2vec to Recommenders and Advertising `Jun 2018`](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/)
 * [Instacart Market Basket Analysis. Winner’s Interview: 2nd place, Kazuki Onodera](https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded)
 * [Back From RecSys 2021](https://medium.com/@santiago_19815/back-from-recsys-2021-288c7fa40422)
+* [Building a Multi-Stage Recommendation System (Part 1.1) `Dailymotion` `two tower`](https://medium.com/mlearning-ai/building-a-multi-stage-recommendation-system-part-1-1-95961ccf3dd8)
+* [Building a multi-stage recommendation system (part 1.2) `Dailymotion` `two tower`](https://medium.com/mlearning-ai/building-a-multi-stage-recommendation-system-part-1-2-ce006f0825d1)
+* [Beyond Recommendation Engines](https://medium.com/hellofresh-dev/beyond-recommendation-engines-a7ab13c14fa0)
+* [Pinterest Home Feed Unified Lightweight Scoring: A Two-tower Approach](https://medium.com/pinterest-engineering/pinterest-home-feed-unified-lightweight-scoring-a-two-tower-approach-b3143ac70b55)
+* [H&M Personalized Fashion Recommendations](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324070)
 
 
 ### RecSys series
@@ -220,6 +225,8 @@
 * https://github.com/hojinYang/spotify_recSys_challenge_2018
 * -> [tfrs-movierec-serving](https://github.com/hojinYang/tfrs-movierec-serving)
 * [recsys_autoencoders](https://github.com/marlesson/recsys_autoencoders)
+* [Build a recommendation system with TensorFlow and Keras `two tower`](https://github.com/xei/recommender-system-tutorial/blob/main/recommender_system_tutorial.ipynb)
+
 
 
 
@@ -321,10 +328,11 @@
   * [Deep Retrieval: Learning A Retrievable Structure for Large-Scale Recommendations (ByteDance)](https://arxiv.org/pdf/2007.07203v2.pdf)
   * [Embedding-based Retrieval in Facebook Search (Facebook)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305)
   * -> [Causal Inference for Recommender Systems](https://dl.acm.org/doi/10.1145/3383313.3412225)
+  * [Off-policy Learning in Two-stage Recommender Systems `two tower`](https://dl.acm.org/doi/abs/10.1145/3366423.3380130)
 * 2021
   * [Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (2021 Amazon)](https://arxiv.org/pdf/2109.11059.pdf)
   * [Theoretical Understandings of Product Embedding for E-commerce Machine Learning (2021 Walmart)](https://arxiv.org/pdf/2102.12029.pdf)
-  * [**Self-supervised Learning for Large-scale Item Recommendations (2021 Google)**](https://arxiv.org/pdf/2007.12865.pdf 	)
+  * [**Self-supervised Learning for Large-scale Item Recommendations (2021 Google)** `two tower`](https://arxiv.org/pdf/2007.12865.pdf 	)
   * [Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees? (2021 Google ICRL)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/a7f0822e77e8b6b4c00c879707fe60e3955d4a03.pdf)
   * [**Item Recommendation from Implicit Feedback (2021 Google)**](https://arxiv.org/pdf/2101.08769.pdf)
   * [A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research (2021)`review`](https://arxiv.org/pdf/1911.07698.pdf)
@@ -345,7 +353,8 @@
 
 
 ### Papers by topics
-Two tower model 
+
+tower model 
 * [Learning Text Similarity with Siamese Recurrent Networks (2016 textkernel)](https://aclanthology.org/W16-1617.pdf)
 * [Smart Reply: Automated Response Suggestion for Email (2016 Google)](https://arxiv.org/pdf/1606.04870v1.pdf)
 * [Learning Semantic Textual Similarity from Conversations - (2018 Google)](https://arxiv.org/pdf/1804.07754.pdf)

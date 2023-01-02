@@ -142,6 +142,15 @@
 #### fennel
 * [Real World Recommendation System - Part 1](https://blog.fennel.ai/p/real-world-recommendation-system?s=r)
 
+#### eBay
+* [Multi-Objective Ranking for Promoted Auction Items `eBay`](https://medium.com/@ebaytechblog/multi-objective-ranking-for-promoted-auction-items-293bf204574f)
+
+#### Expedia
+* [How to Optimise Rankings with Cascade Bandits](ttps://medium.com/expedia-group-tech/how-to-optimise-rankings-with-cascade-bandits-5d92dfa0f16b)
+
+#### Booking
+* [Personalization in Practice - Booking workshop](https://booking.ai/personalization-in-practice-2bb4bc680eb3)
+
 #### NVIDIA
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-1/
 * https://developer.nvidia.com/blog/how-to-build-a-winning-recommendation-system-part-2-deep-learning-for-recommender-systems/
@@ -195,6 +204,7 @@
 * Workshops
   * Workshop on context-awere recommendation system - https://cars-workshop.com/cars-2021
 * [Machine Learning Recommender System With Python 2022 `Data Academy`](https://www.youtube.com/playlist?list=PLsugXK9b1w1nlDH0rbxIufJLeC3MsbRaa)
+* [Personalized Recommendations at Scale](https://corise.com/course/personalized-recommendation-at-scale)
 
 
 
@@ -226,8 +236,7 @@
 * -> [tfrs-movierec-serving](https://github.com/hojinYang/tfrs-movierec-serving)
 * [recsys_autoencoders](https://github.com/marlesson/recsys_autoencoders)
 * [Build a recommendation system with TensorFlow and Keras `two tower`](https://github.com/xei/recommender-system-tutorial/blob/main/recommender_system_tutorial.ipynb)
-
-
+* [WSDM Cup on Cross-Market Recommendation Competition](https://xmrec.github.io/wsdmcup/)
 
 
 ## Datasets

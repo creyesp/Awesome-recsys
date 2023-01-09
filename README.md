@@ -218,6 +218,7 @@
 * [Recommender Systems Textbook 1er ed 2016 Edition](https://www.amazon.com/Recommender-Systems-Textbook-Charu-Aggarwal-dp-3319296574/dp/3319296574/ref=mt_other?_encoding=UTF8&me=&qid=)
 * [Recommendation Engines](https://www.amazon.com/Recommendation-Engines-Press-Essential-Knowledge/dp/0262539071)
 * [Recommender Systems: An Introduction](https://www.amazon.com/Recommender-Systems-Introduction-Dietmar-Jannach/dp/0521493366)
+* [Personalized Machine Learning](https://cseweb.ucsd.edu/~jmcauley/pml/pml_book.pdf)
 
  
 ## Code

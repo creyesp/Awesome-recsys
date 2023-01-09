@@ -103,6 +103,8 @@
 
 
 ### RecSys in tech companies
+#### OLX
+* https://tech.olx.com/item2vec-neural-item-embeddings-to-enhance-recommendations-1fd948a6f293
 #### DoorDash
 * [**Simple logistic regression model for recommendation**](https://doordash.news/2017/07/07/powering-search-recommendations-at-doordash/)
 * [**Store2Vec**](https://doordash.engineering/2018/04/02/personalized-store-feed-with-vector-embeddings/)
@@ -250,37 +252,48 @@
 
 
 ## Papers
-* [Connected papers](https://www.connectedpapers.com/)
-[ACM](https://dl.acm.org/topic/conference-collections/recsys?), 
+[Connected papers](https://www.connectedpapers.com/)
+
+[ACM](https://dl.acm.org/topic/conference-collections/recsys?)
 
 * **OpenTable recommendations (2015)** - https://www.slideshare.net/BuhwanJeong/deep-learning-c-43529709
+* 2001
+  * [Item-Based Collaborative Filtering Recommendation Algorithms `GroupLens`](https://dl.acm.org/doi/pdf/10.1145/371920.372071)
+* 2004
+  * [Item-based top-N recommendation algorithms](https://dl.acm.org/doi/10.1145/963770.963776)
 * 2008
-  * [Collaborative Filtering for Implicit Feedback Datasets (2008 AT&T)](http://yifanhu.net/PUB/cf.pdf)
+  * [Collaborative Filtering for Implicit Feedback Datasets `AT&T`](http://yifanhu.net/PUB/cf.pdf)
 * 2009
-  * [BPR: Bayesian Personalized Ranking from Implicit Feedback (2009)](https://arxiv.org/pdf/1205.2618.pdf)
+  * [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf)
+  * [A Survey of Accuracy Evaluation Metrics of Recommendation Tasks `Evaluation` `Microsoft`](https://dl.acm.org/doi/10.5555/1577069.1755883)
 * 2010
   * [Factorization Machine (2010)](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 * 2011
   * [SLIM: Sparse Linear Methods for Top-N Recommender Systems (2011)](http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf) 
   * [Adaptive bootstrapping of recommender systems using decision trees](https://dl.acm.org/doi/10.1145/1935826.1935910)
+* 2012
+  * [A Topic-based Recommender System for Electronic Marketplace Platforms `Content-base`](https://ieeexplore.ieee.org/document/6495071)
 * 2013
   * [**Deep content-based music recommendation (2013 Spotify)**](https://papers.nips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
 * 2015
   * [AutoRec: Autoencoders Meet Collaborative Filtering (2015)`autoencder`](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
-  * [Metadata Embeddings for User and Item Cold-start Recommendations (2015 Lyst)](https://arxiv.org/pdf/1507.08439.pdf)
+  * [Metadata Embeddings for User and Item Cold-start Recommendations `Lyst` (LightFM)](https://arxiv.org/pdf/1507.08439.pdf)
   * -> [The Netflix Recommender System: Algorithms, Business Value and Innovation (2015 Netflix)](https://dl.acm.org/doi/pdf/10.1145/2843948)
 * 2016
-  * [**E-commerce in Your Inbox: Product Recommendations at Scale (2016 Yahoo)**](https://arxiv.org/pdf/1606.07154.pdf)
-  * [**Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation (2016 Criteo)**](https://arxiv.org/pdf/1607.07326.pdf)
-  * [**Deep Neural Networks for YouTube Recommendations (2016 Google)**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)
-  * [**Wide & Deep Learning for Recommender Systems (2016 Google)**](https://arxiv.org/pdf/1606.07792.pdf)
-  * [Recommendations as Treatments: Debiasing Learning and Evaluation (2016)](http://proceedings.mlr.press/v48/schnabel16.pdf)
-  * [Session-based Recommendations with Recurrent Neural Networks(2016 Yusp-Telefonica-Netflix)](https://arxiv.org/pdf/1511.06939.pdf)
-  * [A Generic Coordinate Descent Framework for Learning from Implicit Feedback (2016 Google)](https://arxiv.org/pdf/1611.04666.pdf)
-  * [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems (2016b Dato)`autoencder`](https://dl.acm.org/doi/pdf/10.1145/2835776.2835837)
-  * [A Neural Autoregressive Approach to Collaborative Filtering (2016)`autoencder`](https://arxiv.org/abs/1605.09477)
+  * [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems Dato `Autoencoder`](https://dl.acm.org/doi/pdf/10.1145/2835776.2835837)
+  * [**Item2Vec: Neural Item Embedding for Collaborative Filtering `Microsoft`**](https://arxiv.org/abs/1603.04259)
+  * [Session-based Recommendations with Recurrent Neural Networks `Yusp` `Telefonica` `Netflix` `Session-base`](https://arxiv.org/pdf/1511.06939.pdf)
+  * [A Neural Autoregressive Approach to Collaborative Filtering `autoencder`](https://arxiv.org/abs/1605.09477)
+  * [**Prod2vec: E-commerce in Your Inbox: Product Recommendations at Scale `Yahoo`**](https://arxiv.org/pdf/1606.07154.pdf)
+  * [**Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation `Criteo`**](https://arxiv.org/pdf/1607.07326.pdf)
+  * [**Wide & Deep Learning for Recommender Systems `Google`**](https://arxiv.org/pdf/1606.07792.pdf)
+  * [**Deep Neural Networks for YouTube Recommendations `Google`**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)
+  * [Recommendations as Treatments: Debiasing Learning and Evaluation](http://proceedings.mlr.press/v48/schnabel16.pdf)
   * -> [Local Item-Item Models For Top-N Recommendation](https://dl.acm.org/doi/pdf/10.1145/2959100.2959185)
+  * [A Generic Coordinate Descent Framework for Learning from Implicit Feedback `Google`](https://arxiv.org/pdf/1611.04666.pdf)
+  * [CB2CF: A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations `Microsoft`](https://arxiv.org/abs/1611.00384)  
 * 2017
+  * [Diversity, Serendipity, Novelty, and Coverage: A Survey and Empirical Analysis of Beyond-Accuracy Objectives in Recommender Systems `Evaluation`](https://dl.acm.org/doi/10.1145/2926720)
   * [Sequential User-based Recurrent Neural Network Recommendations (2017)](https://dl.acm.org/doi/pdf/10.1145/3109859.3109877)
   * [Neural Collaborative Filtering (2017)](https://arxiv.org/pdf/1708.05031.pdf)
   * [Deep & Cross Network for Ad Click Predictions (2017 Google)](https://arxiv.org/pdf/1708.05123.pdf)
@@ -290,6 +303,11 @@
   * [Folding: Why Good Models Sometimes Make Spurious Recommendations (2017 Google)](https://dl.acm.org/doi/pdf/10.1145/3109859.3109911)
   * [Collaborative Variational Autoencoder for Recommender Systems (2017)`autoencder`](https://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)
   * [Recurrent Neural Networks with Top-k Gains for Session-based Recommendations (2017 Yusp-Telefonica)](https://arxiv.org/pdf/1706.03847.pdf)
+  * [Related Pins at Pinterest: The Evolution of a Real-World Recommender System `Pinterest`](https://arxiv.org/abs/1702.07969) 
+  * [ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation `Alibaba`](https://arxiv.org/abs/1711.06632)
+  * [Large-Scale User Modeling with Recurrent Neural Networks for Music Discovery on Multiple Time Scales](https://arxiv.org/abs/1708.06520)
+  * [Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks](https://arxiv.org/abs/1708.04617)
+  * [Deep Embedding Forest: Forest-based Serving with Deep Embedding Features `Microsoft`](https://arxiv.org/abs/1703.05291)
 * 2018
   * [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems (2018 Microsoft)](https://arxiv.org/pdf/1803.05170.pdf)
   * [Latent Cross: Making Use of Context in Recurrent Recommender Systems (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3159652.3159727)
@@ -301,7 +319,11 @@
   * [Adversarial Collaborative Auto-encoder for Top-N Recommendation (2018)](https://arxiv.org/pdf/1808.05361.pdf)
   * [Causal Embeddings for Recommendation]()
   * [Sequence-Aware Recommender Systems](https://arxiv.org/abs/1802.08452)
-  * [Offline A/B testing for Recommender Systems `Criteo Labs`](https://arxiv.org/abs/1801.07030)
+  * [Offline A/B testing for Recommender Systems `Criteo`](https://arxiv.org/abs/1801.07030)
+  * [**Deep neural network marketplace recommenders in online experiments `Schibsted`**](https://arxiv.org/abs/1809.02130) / [**Five lessons from building a deep neural network recommender**](https://arxiv.org/abs/1809.02131)
+  * [Learning Item-Interaction Embeddings for User Recommendations `Etsy`](https://arxiv.org/abs/1812.04407)
+  * [Word2Vec applied to Recommendation: Hyperparameters Matter `Deezer`](https://arxiv.org/abs/1804.04212)
+  
 * 2019 
   * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)
   * [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)`two tower`**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
@@ -322,6 +344,7 @@
   * [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (2019 Alibaba)](https://arxiv.org/pdf/1905.06874.pdf)
   * [**Managing Popularity Bias in Recommender Systems with Personalized Re-ranking** (2019)](https://arxiv.org/pdf/1901.07555.pdf)
   * [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/abs/1905.07854)
+  * [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/abs/1810.11921)
 * 2020
   * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)
   * [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (2020 Tencet)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
@@ -338,6 +361,12 @@
   * [Embedding-based Retrieval in Facebook Search (Facebook)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305)
   * -> [Causal Inference for Recommender Systems](https://dl.acm.org/doi/10.1145/3383313.3412225)
   * [Off-policy Learning in Two-stage Recommender Systems `two tower`](https://dl.acm.org/doi/abs/10.1145/3366423.3380130)
+  * [How to Grow a (Product) Tree: Personalized Category Suggestions for eCommerce Type-Ahead `Coveo`](https://aclanthology.org/2020.ecnlp-1.2/)
+  * [Fantastic Embeddings and How to Align Them: Zero-Shot Inference in a Multi-Shop Scenario `Coveo`](https://arxiv.org/abs/2007.14906)
+  * [RecoBERT: A Catalog Language Model for Text-Based Recommendations `Micorsoft`](https://arxiv.org/abs/2009.13292)
+  * [Attentive Item2Vec: Neural Attentive User Representations `Microsoft`](https://arxiv.org/abs/2002.06205)
+  
+  
 * 2021
   * [Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (2021 Amazon)](https://arxiv.org/pdf/2109.11059.pdf)
   * [Theoretical Understandings of Product Embedding for E-commerce Machine Learning (2021 Walmart)](https://arxiv.org/pdf/2102.12029.pdf)
@@ -354,6 +383,7 @@
   * [Reinforcement learning based recommender systems: A survey`survey`](https://arxiv.org/pdf/2101.06286.pdf)
   * [**Recommendations as Treatments**](https://ojs.aaai.org/index.php/aimagazine/article/view/18141/18875)
   * [**Deep Learning for Recommender Systems: A Netflix Case Study** `Netflix`](https://ojs.aaai.org/index.php/aimagazine/article/view/18140/18876)
+  * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce `Coveo`](https://aclanthology.org/2021.naacl-industry.20/)
 * 2022
   * [Cross Pairwise Ranking for Unbiased Item Recommendation](https://arxiv.org/pdf/2204.12176v1.pdf)
   * [Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/abs/2206.05941)[Code](https://github.com/rucaibox/unisrec)

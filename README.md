@@ -308,6 +308,7 @@
   * [Large-Scale User Modeling with Recurrent Neural Networks for Music Discovery on Multiple Time Scales](https://arxiv.org/abs/1708.06520)
   * [Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks](https://arxiv.org/abs/1708.04617)
   * [Deep Embedding Forest: Forest-based Serving with Deep Embedding Features `Microsoft`](https://arxiv.org/abs/1703.05291)
+  * [Collaborative Metric Learning `Evaluation`](https://dl.acm.org/doi/10.1145/3038912.3052639)
 * 2018
   * [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems (2018 Microsoft)](https://arxiv.org/pdf/1803.05170.pdf)
   * [Latent Cross: Making Use of Context in Recurrent Recommender Systems (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3159652.3159727)
@@ -323,6 +324,7 @@
   * [**Deep neural network marketplace recommenders in online experiments `Schibsted`**](https://arxiv.org/abs/1809.02130) / [**Five lessons from building a deep neural network recommender**](https://arxiv.org/abs/1809.02131)
   * [Learning Item-Interaction Embeddings for User Recommendations `Etsy`](https://arxiv.org/abs/1812.04407)
   * [Word2Vec applied to Recommendation: Hyperparameters Matter `Deezer`](https://arxiv.org/abs/1804.04212)
+  * [Calibrated recommendations `Evaluation` `Netflix`](https://dl.acm.org/doi/10.1145/3240323.3240372)
   
 * 2019 
   * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)

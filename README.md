@@ -350,6 +350,7 @@
   * [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/abs/1905.07854)
   * [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/abs/1810.11921)
 * 2020
+  * [SSE-PT: Sequential Recommendation Via Personalized Transformer](https://dl.acm.org/doi/10.1145/3383313.3412258)
   * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)
   * [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (2020 Tencet)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
   * [Contextual and Sequential User Embeddings for Large-Scale Music Recommendation (2020)](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248)
@@ -369,6 +370,7 @@
   * [Fantastic Embeddings and How to Align Them: Zero-Shot Inference in a Multi-Shop Scenario `Coveo`](https://arxiv.org/abs/2007.14906)
   * [RecoBERT: A Catalog Language Model for Text-Based Recommendations `Micorsoft`](https://arxiv.org/abs/2009.13292)
   * [Attentive Item2Vec: Neural Attentive User Representations `Microsoft`](https://arxiv.org/abs/2002.06205)
+  * [Neural Interactive Collaborative Filtering](https://arxiv.org/abs/2007.02095)
   
   
 * 2021
@@ -394,6 +396,7 @@
   * [Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/abs/2206.05941)[Code](https://github.com/rucaibox/unisrec)
   * [Weighing dynamic availability and consumption for Twitch recommendations (Amazon)](https://www.amazon.science/publications/weighing-dynamic-availability-and-consumption-for-twitch-recommendations)
   * [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf)
+  * [A Brief History of Recommender Systems `Review`](https://arxiv.org/abs/2209.01860)
 
 
 ### Papers by topics

@@ -281,6 +281,7 @@
   * [Metadata Embeddings for User and Item Cold-start Recommendations `Lyst` (LightFM)](https://arxiv.org/pdf/1507.08439.pdf)
   * -> [The Netflix Recommender System: Algorithms, Business Value and Innovation (2015 Netflix)](https://dl.acm.org/doi/pdf/10.1145/2843948)
 * 2016
+  * [Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features `Microsoft`](https://dl.acm.org/doi/10.1145/2939672.2939704)
   * [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems Dato `Autoencoder`](https://dl.acm.org/doi/pdf/10.1145/2835776.2835837)
   * [**Item2Vec: Neural Item Embedding for Collaborative Filtering `Microsoft`**](https://arxiv.org/abs/1603.04259)
   * [Session-based Recommendations with Recurrent Neural Networks `Yusp` `Telefonica` `Netflix` `Session-base`](https://arxiv.org/pdf/1511.06939.pdf)

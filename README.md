@@ -396,7 +396,7 @@
   * [Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/abs/2206.05941)[Code](https://github.com/rucaibox/unisrec)
   * [Weighing dynamic availability and consumption for Twitch recommendations (Amazon)](https://www.amazon.science/publications/weighing-dynamic-availability-and-consumption-for-twitch-recommendations)
   * [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf)
-  * [A Brief History of Recommender Systems `Review`](https://arxiv.org/abs/2209.01860)
+  * [**A Brief History of Recommender Systems `Review`**](https://arxiv.org/abs/2209.01860)
 
 
 ### Papers by topics

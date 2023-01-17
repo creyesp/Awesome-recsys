@@ -277,7 +277,7 @@
 * 2013
   * [**Deep content-based music recommendation (2013 Spotify)**](https://papers.nips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
 * 2015
-  * [AutoRec: Autoencoders Meet Collaborative Filtering (2015)`autoencder`](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
+  * [AutoRec: Autoencoders Meet Collaborative Filtering (2015)`Autoencoder`](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
   * [Metadata Embeddings for User and Item Cold-start Recommendations `Lyst` (LightFM)](https://arxiv.org/pdf/1507.08439.pdf)
   * -> [The Netflix Recommender System: Algorithms, Business Value and Innovation (2015 Netflix)](https://dl.acm.org/doi/pdf/10.1145/2843948)
 * 2016
@@ -285,7 +285,7 @@
   * [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems Dato `Autoencoder`](https://dl.acm.org/doi/pdf/10.1145/2835776.2835837)
   * [**Item2Vec: Neural Item Embedding for Collaborative Filtering `Microsoft`**](https://arxiv.org/abs/1603.04259)
   * [Session-based Recommendations with Recurrent Neural Networks `Yusp` `Telefonica` `Netflix` `Session-base`](https://arxiv.org/pdf/1511.06939.pdf)
-  * [A Neural Autoregressive Approach to Collaborative Filtering `autoencder`](https://arxiv.org/abs/1605.09477)
+  * [A Neural Autoregressive Approach to Collaborative Filtering `Autoencoder`](https://arxiv.org/abs/1605.09477)
   * [**Prod2vec: E-commerce in Your Inbox: Product Recommendations at Scale `Yahoo`**](https://arxiv.org/pdf/1606.07154.pdf)
   * [**Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation `Criteo`**](https://arxiv.org/pdf/1607.07326.pdf)
   * [**Wide & Deep Learning for Recommender Systems `Google`**](https://arxiv.org/pdf/1606.07792.pdf)
@@ -303,7 +303,7 @@
   * [Deep & Cross Network for Ad Click Predictions V1 (2017 Google)](https://arxiv.org/pdf/1708.05123.pdf)
   * [Embedding-based News Recommendation for Millions of Users (Yahoo 2017)](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1933.pdf)
   * [Folding: Why Good Models Sometimes Make Spurious Recommendations (2017 Google)](https://dl.acm.org/doi/pdf/10.1145/3109859.3109911)
-  * [Collaborative Variational Autoencoder for Recommender Systems (2017)`autoencder`](https://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)
+  * [Collaborative Variational Autoencoder for Recommender Systems (2017)`Autoencoder`](https://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)
   * [Recurrent Neural Networks with Top-k Gains for Session-based Recommendations (2017 Yusp-Telefonica)](https://arxiv.org/pdf/1706.03847.pdf)
   * [Related Pins at Pinterest: The Evolution of a Real-World Recommender System `Pinterest`](https://arxiv.org/abs/1702.07969) 
   * [ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation `Alibaba`](https://arxiv.org/abs/1711.06632)
@@ -317,7 +317,7 @@
   * [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3219819.3220007)
   * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018)
   * [Explore, exploit, and explain: personalizing explainable recommendations with bandits (2018 Spotify)](https://dl.acm.org/doi/pdf/10.1145/3240323.3240354)
-  * [MULTI-VAE: Variational Autoencoders for Collaborative Filtering (2018 Netflix/Google)`autoencder`](https://arxiv.org/pdf/1802.05814.pdf)
+  * [MULTI-VAE: Variational Autoencoders for Collaborative Filtering (2018 Netflix/Google)`Autoencoder`](https://arxiv.org/pdf/1802.05814.pdf)
   * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (2018 Google)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018)
   * [Adversarial Collaborative Auto-encoder for Top-N Recommendation (2018)](https://arxiv.org/pdf/1808.05361.pdf)
   * [Causal Embeddings for Recommendation]()
@@ -330,7 +330,7 @@
   
 * 2019 
   * [Deep Learning Recommendation Model for Personalization and Recommendation Systems (2019 Facebook)](https://arxiv.org/pdf/1906.00091.pdf)
-  * [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)`two tower`**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
+  * [**Sampling-bias-corrected neural modeling for large corpus item recommendations (2019 Google)`Two tower`**](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf)
     - [**PS6: Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations - Yi et al. (ACM)**](https://www.youtube.com/watch?v=O4cqDdtflnY)
     - [PR-282: Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](https://www.youtube.com/watch?v=FSDuo9ybv8s)
   * [Recommending what video to watch next: a multitask ranking system (2019 Google)](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997)
@@ -338,8 +338,8 @@
   * [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer (2019)](https://dl.acm.org/doi/abs/10.1145/3357384.3357895)
   * [Improving Relevance Prediction with Transfer Learning in Large-scale Retrieval Systems (2019 Google)](https://openreview.net/pdf?id=SJxPVcSonN)
   * [Building a Recommender System Using Embeddings (2019 Drop)](https://drop.engineering/building-a-recommender-system-using-embeddings-de5a30e655aa)
-  * [End-to-End Retrieval in Continuous Space (2019 Google) `two tower`](https://arxiv.org/pdf/1811.08008.pdf)
-  * [Beyond Greedy Ranking: Slate Optimization via List-CVAE (2019)`autoencder`](https://arxiv.org/pdf/1803.01682.pdf)
+  * [End-to-End Retrieval in Continuous Space (2019 Google) `Two tower`](https://arxiv.org/pdf/1811.08008.pdf)
+  * [Beyond Greedy Ranking: Slate Optimization via List-CVAE (2019)`Autoencoder`](https://arxiv.org/pdf/1803.01682.pdf)
   * [On the Difficulty of Evaluating Baselines (2019 Google)`evaluation`](https://arxiv.org/pdf/1905.01395.pdf)
   * [**Are we really making much progress? A worrying analysis of recent neural recommendation approaches** (2019)`evaluation`](https://dl.acm.org/doi/pdf/10.1145/3298689.3347058)
   * [**Embarrassingly Shallow Autoencoders for Sparse Data** (2019 Netflix)`autoencoder`](https://arxiv.org/abs/1905.03375)
@@ -359,12 +359,12 @@
   * [Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations (2020 Google)`two tower`](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b9f4e78a8830fe5afcf2f0452862fb3c0d6584ea.pdf)
   * [On sampled metrics for item recommendation (2020 Google)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226)
   * [Temporal-Contextual Recommendation in Real-Time (2020 Amazon)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403278)
-  * [**Neural Collaborative Filtering vs. Matrix Factorization Revisited (2020 Google)**](https://dl.acm.org/doi/pdf/10.1145/3383313.3412488)
+  * [**Neural Collaborative Filtering vs. Matrix Factorization Revisited `Google`**](https://dl.acm.org/doi/pdf/10.1145/3383313.3412488)
   * [An Embedding Learning Framework for Numerical Features in CTR Prediction](https://arxiv.org/pdf/2012.08986.pdf)
   * [Deep Retrieval: Learning A Retrievable Structure for Large-Scale Recommendations (ByteDance)](https://arxiv.org/pdf/2007.07203v2.pdf)
-  * [Embedding-based Retrieval in Facebook Search (Facebook)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305)
+  * [Embedding-based Retrieval in Facebook Search `Facebook` `Two tower`](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305)
   * -> [Causal Inference for Recommender Systems](https://dl.acm.org/doi/10.1145/3383313.3412225)
-  * [Off-policy Learning in Two-stage Recommender Systems `two tower`](https://dl.acm.org/doi/abs/10.1145/3366423.3380130)
+  * [Off-policy Learning in Two-stage Recommender Systems `Two tower`](https://dl.acm.org/doi/abs/10.1145/3366423.3380130)
   * [How to Grow a (Product) Tree: Personalized Category Suggestions for eCommerce Type-Ahead `Coveo`](https://aclanthology.org/2020.ecnlp-1.2/)
   * [Fantastic Embeddings and How to Align Them: Zero-Shot Inference in a Multi-Shop Scenario `Coveo`](https://arxiv.org/abs/2007.14906)
   * [RecoBERT: A Catalog Language Model for Text-Based Recommendations `Micorsoft`](https://arxiv.org/abs/2009.13292)
@@ -449,5 +449,3 @@ RecSys 2020 (https://slideslive.com/acmrecsys)
 
 # Profesors
 * [Thorsten Joachims, Cornell University](https://www.cs.cornell.edu/people/tj/)
-
-

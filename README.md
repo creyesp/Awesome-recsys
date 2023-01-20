@@ -268,6 +268,7 @@
   * [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf)
   * [A Survey of Accuracy Evaluation Metrics of Recommendation Tasks `Evaluation` `Microsoft`](https://dl.acm.org/doi/10.5555/1577069.1755883)
 * 2010
+  * [Collaborative filtering meets mobile recommendation: a user-centered approach `Microsoft`](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/AAAI10-Collaborative20Filtering20Meets20Mobile20Recommendation20A20User-centered20Approach-1.pdf)
   * [Factorization Machine (2010)](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 * 2011
   * [SLIM: Sparse Linear Methods for Top-N Recommender Systems (2011)](http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf) 

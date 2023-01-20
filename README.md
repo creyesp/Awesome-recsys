@@ -278,6 +278,7 @@
 * 2013
   * [**Deep content-based music recommendation (2013 Spotify)**](https://papers.nips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
 * 2015
+  * [A Probabilistic Model for Using Social Networks in Personalized Item Recommendation](https://dl.acm.org/doi/10.1145/2792838.2800193)
   * [AutoRec: Autoencoders Meet Collaborative Filtering (2015)`Autoencoder`](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)
   * [Metadata Embeddings for User and Item Cold-start Recommendations `Lyst` (LightFM)](https://arxiv.org/pdf/1507.08439.pdf)
   * -> [The Netflix Recommender System: Algorithms, Business Value and Innovation (2015 Netflix)](https://dl.acm.org/doi/pdf/10.1145/2843948)

@@ -298,6 +298,7 @@
   * [CB2CF: A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations `Microsoft`](https://arxiv.org/abs/1611.00384)  
 * 2017
   * [Diversity, Serendipity, Novelty, and Coverage: A Survey and Empirical Analysis of Beyond-Accuracy Objectives in Recommender Systems `Evaluation`](https://dl.acm.org/doi/10.1145/2926720)
+  * [Joint Deep Modeling of Users and Items Using Reviews for Recommendation](https://arxiv.org/abs/1701.04783)
   * [Sequential User-based Recurrent Neural Network Recommendations (2017)](https://dl.acm.org/doi/pdf/10.1145/3109859.3109877)
   * [Neural Collaborative Filtering (2017)](https://arxiv.org/pdf/1708.05031.pdf)
   * [Deep & Cross Network for Ad Click Predictions (2017 Google)](https://arxiv.org/pdf/1708.05123.pdf)

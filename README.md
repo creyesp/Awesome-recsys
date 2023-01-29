@@ -193,6 +193,8 @@
 * -> [Personalizing Explainable Recommendations with Multi-objective Contextual Bandits (Spotify)](https://www.youtube.com/watch?v=KoMKgNeUX4k)
 * -> [MORS: Workshop on Multi-Objective Recommender Systems](https://www.youtube.com/watch?v=CeNfq6_VX2s)
 * [**Shared Neural Item Representations for Completely Cold Start Problem**](https://www.youtube.com/watch?v=oLsdP47K8qc)
+* [Maciej Kula | Neural Networks for Recommender Systems](https://www.youtube.com/watch?v=ZkBQ6YA9E40)
+* [Building Production Recommender Systems - Maciej Kula - WEB2DAY 2017](https://www.youtube.com/watch?v=CLNFmm6Lj_I)
 
 
 
@@ -233,6 +235,8 @@
 * https://github.com/tensorflow/ranking/
 * https://github.com/RUCAIBox/RecBole
 * https://github.com/ShopRunner/collie_recs/
+* https://github.com/metarank/metarank
+* https://github.com/linkedin/detext
 
 ### competition and hands-on
 * https://github.com/hojinYang/spotify_recSys_challenge_2018

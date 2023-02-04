@@ -30,6 +30,21 @@
 * [Beyond Recommendation Engines](https://medium.com/hellofresh-dev/beyond-recommendation-engines-a7ab13c14fa0)
 * [Pinterest Home Feed Unified Lightweight Scoring: A Two-tower Approach](https://medium.com/pinterest-engineering/pinterest-home-feed-unified-lightweight-scoring-a-two-tower-approach-b3143ac70b55)
 * [H&M Personalized Fashion Recommendations](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/discussion/324070)
+* https://medium.com/@sanchitgarg_78552/recommendations-for-h-m-ecommerce-ai-driven-retail-b0edde6746e6
+* [Context-Aware Recommender Systems introduction: take SQN as an example](https://medium.com/@b08902022/context-aware-recommender-systems-introduction-take-sqn-as-an-example-453b6c66172)
+* [Paper Review Monolith: Towards Better Recommendation Systems `TikTok`](https://pub.towardsai.net/paper-review-monolith-towards-better-recommendation-systems-b58702be416a)
+* [Real-time customer behavior recommendations via session-based approach](https://becominghuman.ai/real-time-customer-behavior-recommendations-via-session-based-approach-50d9faf36877)
+* [Personalized Fishbowl Recommendations with Learned Embeddings: Part 1 `Glassdoor`](https://medium.com/glassdoor-engineering/personalized-fishbowl-recommendations-with-learned-embeddings-part-1-6031abe84661)
+* [Knowledge Graph Attention Network for Recommendation](https://medium.com/@shivanshsethi8821/knowledge-graph-attention-network-for-recommendation-4be007989076)
+* [Training Larger and Faster Recommender Systems with PyTorch Sparse Embeddings](https://medium.com/nvidia-merlin/training-larger-and-faster-recommender-systems-with-pytorch-sparse-embeddings-53348a2cde3f)
+* [End-to-End Recommender Systems with Merlin: Part 3](https://medium.com/@aryan.gupta18/end-to-end-recommender-systems-with-merlin-part-3-d0d3d7e30c43)
+* [Recommendation Systems with Deep Learning](https://medium.com/google-cloud/recommendation-systems-with-deep-learning-69e5c1772571)
+* [Pinterest Home Feed Unified Lightweight Scoring: A Two-tower Approach](https://medium.com/pinterest-engineering/pinterest-home-feed-unified-lightweight-scoring-a-two-tower-approach-b3143ac70b55)
+* [Modern Recommender Systems](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
+* [Semantic Label Representation with an Application on Multimodal Product Categorization](https://medium.com/walmartglobaltech/semantic-label-representation-with-an-application-on-multimodal-product-categorization-63d668b943b7)
+* [Looking to build a recommendation system on Google Cloud? Leverage the following guidelines to identify the right solution for you (Part I)](https://cloud.google.com/blog/topics/developers-practitioners/looking-build-recommendation-system-google-cloud-leverage-following-guidelines-identify-right-solution-you-part-i)
+* [Google: About recommendation models](https://cloud.google.com/retail/docs/models#si)
+* ->[Learning product similarity in e-commerce using a supervised approach](https://towardsdatascience.com/learning-product-similarity-in-e-commerce-using-a-supervised-approach-525d734afd99)
 
 
 ### RecSys series
@@ -44,7 +59,9 @@
 
 #### by Eugen Yan
 * https://eugeneyan.com/tag/recsys/
-* [RecSys 2021 - Papers and Talks to Chew on](https://eugeneyan.com/writing/recsys2021/)
+* [RecSys 2020: Takeaways and Notable Papers](https://eugeneyan.com/writing/recsys2020/#towards-more-robust-offline-evaluation-and-study-reproducibility)
+* [RecSys 2021: Papers and Talks to Chew on](https://eugeneyan.com/writing/recsys2021/)
+* [RecSys 2022: Recap, Favorite Papers, and Lessons](https://eugeneyan.com/writing/recsys2022/)
 * [Patterns for Personalization](https://eugeneyan.com/writing/patterns-for-personalization/)
 
 #### by Wei Wei
@@ -195,6 +212,10 @@
 * [**Shared Neural Item Representations for Completely Cold Start Problem**](https://www.youtube.com/watch?v=oLsdP47K8qc)
 * [Maciej Kula | Neural Networks for Recommender Systems](https://www.youtube.com/watch?v=ZkBQ6YA9E40)
 * [Building Production Recommender Systems - Maciej Kula - WEB2DAY 2017](https://www.youtube.com/watch?v=CLNFmm6Lj_I)
+* [ Building AI-based Recommendation Systems, a value-based approach - Xiquan Cui ](https://www.youtube.com/watch?v=Ax_TNqJrR5s&list=PLRJL9rjwb40l0FFb4loYysgqob_GYImp-)
+* [ Introduction to the OTTO competition on Kaggle (RecSys) ](https://www.youtube.com/watch?v=gtPEX_eRAVo)
+* [ Rishabh Mehrotra: Recommendations in a Marketplace (part 1) ](https://www.youtube.com/watch?v=sx9lKCCeWoc)
+* [ Rishabh Mehrotra: Recommendations in a Marketplace (part 2) ](https://www.youtube.com/watch?v=3gPYN61ZGAI)
 
 
 

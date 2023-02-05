@@ -45,6 +45,8 @@
 * [Looking to build a recommendation system on Google Cloud? Leverage the following guidelines to identify the right solution for you (Part I)](https://cloud.google.com/blog/topics/developers-practitioners/looking-build-recommendation-system-google-cloud-leverage-following-guidelines-identify-right-solution-you-part-i)
 * [Google: About recommendation models](https://cloud.google.com/retail/docs/models#si)
 * ->[Learning product similarity in e-commerce using a supervised approach](https://towardsdatascience.com/learning-product-similarity-in-e-commerce-using-a-supervised-approach-525d734afd99)
+* [Recommender System — Bayesian personalized ranking from implicit feedback](https://towardsdatascience.com/recommender-system-bayesian-personalized-ranking-from-implicit-feedback-78684bfcddf6)
+* [10 Recommendation Techniques: Summary & Comparison](https://medium.com/@jchen001/10-recommendation-techniques-introduction-comparison-7ba4a3a2c940)
 
 
 ### RecSys series

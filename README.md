@@ -427,6 +427,8 @@
   * [Weighing dynamic availability and consumption for Twitch recommendations (Amazon)](https://www.amazon.science/publications/weighing-dynamic-availability-and-consumption-for-twitch-recommendations)
   * [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf)
   * [**A Brief History of Recommender Systems `Review`**](https://arxiv.org/abs/2209.01860)
+* 2023
+  * [Calibrated Recommendations as a Minimum-Cost Flow Problem `Evaluation` `Spotify`](https://dl.acm.org/doi/10.1145/3539597.3570402)
 
 
 ### Papers by topics

@@ -421,6 +421,7 @@
   * [**Deep Learning for Recommender Systems: A Netflix Case Study** `Netflix`](https://ojs.aaai.org/index.php/aimagazine/article/view/18140/18876)
   * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce `Coveo`](https://aclanthology.org/2021.naacl-industry.20/)
   * [A/B Testing for Recommender Systems in a Two-sided Marketplace `Linedin`](https://arxiv.org/abs/2106.00762)
+  * [A Constrained Optimization Approach for Calibrated Recommendations `Evaluation`](https://dl.acm.org/doi/fullHtml/10.1145/3460231.3478857)
 * 2022
   * [Cross Pairwise Ranking for Unbiased Item Recommendation](https://arxiv.org/pdf/2204.12176v1.pdf)
   * [Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/abs/2206.05941)[Code](https://github.com/rucaibox/unisrec)

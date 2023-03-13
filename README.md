@@ -379,6 +379,7 @@
   * [**Managing Popularity Bias in Recommender Systems with Personalized Re-ranking** (2019)](https://arxiv.org/pdf/1901.07555.pdf)
   * [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/abs/1905.07854)
   * [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/abs/1810.11921)
+  * [Recommending what video to watch next: a multitask ranking system `Google`](https://daiwk.github.io/assets/youtube-multitask.pdf)
 * 2020
   * [SSE-PT: Sequential Recommendation Via Personalized Transformer](https://dl.acm.org/doi/10.1145/3383313.3412258)
   * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)

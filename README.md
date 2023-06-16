@@ -260,6 +260,7 @@
 * https://github.com/ShopRunner/collie_recs/
 * https://github.com/metarank/metarank
 * https://github.com/linkedin/detext
+* https://github.com/PreferredAI/cornac/
 
 ### competition and hands-on
 * https://github.com/hojinYang/spotify_recSys_challenge_2018

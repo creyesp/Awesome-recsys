@@ -381,6 +381,7 @@
   * [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/abs/1905.07854)
   * [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/abs/1810.11921)
   * [Recommending what video to watch next: a multitask ranking system `Google`](https://daiwk.github.io/assets/youtube-multitask.pdf)
+  * [PAL: a position-bias aware learning framework for CTR prediction in live recommender systems `Huawei`](https://www.researchgate.net/publication/335771749_PAL_a_position-bias_aware_learning_framework_for_CTR_prediction_in_live_recommender_systems)
 * 2020
   * [SSE-PT: Sequential Recommendation Via Personalized Transformer](https://dl.acm.org/doi/10.1145/3383313.3412258)
   * [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (2020 Google)](https://arxiv.org/pdf/2008.13535.pdf)

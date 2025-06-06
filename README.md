@@ -433,6 +433,11 @@
   * [**A Brief History of Recommender Systems `Review`**](https://arxiv.org/abs/2209.01860)
 * 2023
   * [Calibrated Recommendations as a Minimum-Cost Flow Problem `Evaluation` `Spotify`](https://dl.acm.org/doi/10.1145/3539597.3570402)
+  * [TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback](https://arxiv.org/pdf/2206.06190.pdf)
+  * [Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited](https://dl.acm.org/doi/pdf/10.1145/3539618.3591932)
+  * [Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights](https://arxiv.org/pdf/2305.15036.pdf)
+  * [Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights](https://arxiv.org/pdf/2305.11700.pdf)
+  * [NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation](https://arxiv.org/pdf/2309.07705.pdf)
 
 
 ### Papers by topics
